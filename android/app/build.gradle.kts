@@ -1,10 +1,12 @@
 plugins {
     id("com.android.application")
+    id("org.jetbrains.kotlin.android")
     id("dev.flutter.flutter-gradle-plugin")
 }
 android {
     namespace = "jp.fonix"
     compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
     defaultConfig {
         applicationId = "jp.fonix.wakuwaku"
         minSdk = 28
@@ -15,6 +17,11 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
+    }
+}
+kotlin {
+    compilerOptions {
+        jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17
     }
 }
 flutter { source = "../.." }
