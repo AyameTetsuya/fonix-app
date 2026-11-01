@@ -20,9 +20,12 @@ jobs:
           javac -d /tmp/fonix-native android/app/src/main/java/jp/fonix/AudioData.java android/app/src/main/java/jp/fonix/PinHash.java tests/NativeTests.java
           java -cp /tmp/fonix-native NativeTests
       - run: flutter pub get
-      - run: flutter analyze
-      - run: flutter test
-      - run: flutter build apk --debug
+      - name: Analyze Flutter application
+        run: python tools/ci_flutter.py analyze
+      - name: Test Flutter application
+        run: python tools/ci_flutter.py test
+      - name: Build family APK
+        run: python tools/ci_flutter.py build
       - uses: actions/upload-artifact@v4
         with:
           name: fonix-family-debug-apk
