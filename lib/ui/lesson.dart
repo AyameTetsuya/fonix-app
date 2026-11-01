@@ -218,7 +218,7 @@ class _PronunciationPracticeState extends State<PronunciationPractice> with Widg
     finally{if(mounted)setState(()=>working=false);}
   }
   @override Widget build(BuildContext context)=>SingleChildScrollView(padding:const EdgeInsets.all(24),child:Column(children:[
-    IconButton(tooltip:'あそびかたを きく',onPressed:recording?null:()async{try{await widget.app.play('assets/audio/guide_mic.wav');}catch(_){if(mounted)message(context,'あんないを さいせいできなかったよ。');}},icon:const Icon(Icons.hearing_outlined)),
+    IconButton(tooltip:'あそびかたを きく',onPressed:recording?null:()async{try{await widget.app.play('assets/audio/guide_mic.wav');}catch(_){if(context.mounted)message(context,'あんないを さいせいできなかったよ。');}},icon:const Icon(Icons.hearing_outlined)),
     const Text('お手本を まねして いってみよう',style:TextStyle(fontSize:25,fontWeight:FontWeight.w800,color:ink)),const SizedBox(height:12),
     if(widget.word!=null)SegmentedButton<bool>(segments:const [ButtonSegment(value:false,label:Text('おと')),ButtonSegment(value:true,label:Text('ことば'))],selected:{wordMode},
       onSelectionChanged:recording?null:(s)=>setState(()=>wordMode=s.first)),
@@ -239,7 +239,7 @@ class _PronunciationPracticeState extends State<PronunciationPractice> with Widg
         OutlinedButton.icon(onPressed:()=>play(own:true),icon:const Icon(Icons.hearing),label:const Text('じぶんの こえ')),
         OutlinedButton.icon(onPressed:saved?null:()async{
           try{await widget.app.device.keepRecording();if(mounted)setState(()=>saved=true);}
-          catch(_){if(mounted)message(context,'ほぞんできなかったよ。ほぞんは 20こまでだよ。');}
+          catch(_){if(context.mounted)message(context,'ほぞんできなかったよ。ほぞんは 20こまでだよ。');}
         },icon:const Icon(Icons.bookmark_outline),label:Text(saved?'ほぞんしたよ':'この こえを のこす')),
       ]),
     ],
