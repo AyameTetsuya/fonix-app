@@ -1,0 +1,4259 @@
+[
+  {
+    "path": "assets/audio/sound_s.wav",
+    "sha256": "f6ff504fa7374dc12d943d553ea0c33b3bc148e716bc04109d1b3d4598d2cadd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_a.wav",
+    "sha256": "1b0ddb9281a35f6980b76fc5aa0019598546eedb502b010794a38b476b902486",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_t.wav",
+    "sha256": "4faa94e648cb0fa2e80d7c99b2aebc2f957855ab73c838dc52faeb4ce866257f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_p.wav",
+    "sha256": "9329dcddd7f00b70bddc882e3925a1321d78f49f0ef8c2fc7d47f59bc58011bf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_i.wav",
+    "sha256": "76e34d75671f361f50679fd9072b727d695e7726b30755d0374eccd52e3fd7b2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_n.wav",
+    "sha256": "55eb5b1c7f25a0591b483b0d04b9a3fe94f5582d73c37aa7cfa822e3a7911943",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_m.wav",
+    "sha256": "cb450499dc3ad26ace9252a879cb21c3a9af64c68409097d58990713f2549334",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_d.wav",
+    "sha256": "3b799a752aa08edf686da85a0a7134814dbdb09b298ddef8822b341aa145b3d8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_g.wav",
+    "sha256": "5ec046d050177eb5a4454dc2391c5e1cfea5c3f74bcc2f08265486036e3fdd35",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_o.wav",
+    "sha256": "61e497467b9e4e077939b65148eb37454247b4af89f71a027bfe1e566d0aaab6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_c.wav",
+    "sha256": "e011114ce1e05eea394623fde7c68c3280865c3afc9b9e4cb45308ab2688c45b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_k.wav",
+    "sha256": "e011114ce1e05eea394623fde7c68c3280865c3afc9b9e4cb45308ab2688c45b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_e.wav",
+    "sha256": "ac73a2d3b383d79ae97ce8a17871011589fb9d0431085af4ed64130e2092426a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_u.wav",
+    "sha256": "2822cbb7632b66be4530ef951ffc06f4bbc5d8696dfe00ca778afac61c216fbc",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_b.wav",
+    "sha256": "3b799a752aa08edf686da85a0a7134814dbdb09b298ddef8822b341aa145b3d8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_h.wav",
+    "sha256": "54cd9ad1401d5d460a62fcb09c14e96fdd64d1a4991aa5ddbbf39ff24e52a483",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_f.wav",
+    "sha256": "7bb98b347ac9568c5579f24eac9a0a1906fa2cc039e8efece5f8bc34d5f75d88",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_l.wav",
+    "sha256": "c8f423a8116879eab8b42085b4d42942fe3e5c76df0c0041fe83935f202a0861",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_r.wav",
+    "sha256": "4fc664737bc13c2a98e57a4a564d1f5a4c14c5ae67e4b7c832cf93f44786c2a2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_j.wav",
+    "sha256": "e629ee850ce869b41767ed56e53c63d85219ec742d526bc545651cca67d0b23e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_v.wav",
+    "sha256": "ef2a4f67f7993b135dd6a9a1462e3c2f5d08599303e8cf34cc2dc053fe02a4d7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_w.wav",
+    "sha256": "f7402a20be84c795debaa9f1dff8f5a23572fabb900f7206e117d8a14ecf5736",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_y.wav",
+    "sha256": "4798d67a86d58aa1ca08f93b9b88c5d06e1761a3b7b624e0e75028ae9b2ee0d8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_z.wav",
+    "sha256": "238bff983678ec1857812e33c857803c1b8a3aff5596a56d3b8cecdba0deb8e9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_x.wav",
+    "sha256": "2b3477070ad159b8d9b362671a6688c0055e3e5b34b5e7d83ac1beb18c0826a8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_qu.wav",
+    "sha256": "13926872b5538063a9dea56a04e8ca95c946e28aa420e0eab5946545bdbda74e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_sh.wav",
+    "sha256": "8401a608be9691f9376b1e0d2bd1e9b3bb733dfb16382c9683bb8bcb956e9921",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ch.wav",
+    "sha256": "59a3a203b1ad5c0f90d80bd3ee925d8b5dc4d3d3646d2245bce9ec6e6deaac9e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_th.wav",
+    "sha256": "4eaad612ed35e9e3bc66a3b9d9c6336e874ebd0b2324e271fdf4543f65713863",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_thv.wav",
+    "sha256": "d03cae644d5e6ed7ae22415bc9da5cd2c6497a379b049d84c36dcd4e62f8020f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ng.wav",
+    "sha256": "891aa59d2b9f68bb1d78e449f4927ac9d319966e8acd1663c600dcd5e2929d8e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ck.wav",
+    "sha256": "e011114ce1e05eea394623fde7c68c3280865c3afc9b9e4cb45308ab2688c45b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_st.wav",
+    "sha256": "bbea1400b21651c0a3d9a7d84c90f2b1db69ba6c792b277f0d68fab14b73ac2d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_sp.wav",
+    "sha256": "e96b5bd7635656d4c0c81c9d114797d100fa878040ad3f1054438c7c18b7ffc4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_bl.wav",
+    "sha256": "c43c458d2288d2c7714778cc50dd801659c53d92a0614ebc2b5fe4f8a884d491",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_pl.wav",
+    "sha256": "a409036c6cac9e9bf3a6d4acc593d5098e31dd173f5678a9390e6beb4e15d96d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_nd.wav",
+    "sha256": "f9bd8aa98f7bcc68ced5e43ad230e29b27494acae4fb01b33f7439f7e7bac1b0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_nt.wav",
+    "sha256": "5bde84155da47a22eea8d44cb11dc05cb5417a933b2e0568895d68652b40fda6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_a_e.wav",
+    "sha256": "45f0efc863ff3e847c4619d0303833c5e5eb5842e1d2e2d3d38dc54b573d876a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_i_e.wav",
+    "sha256": "ededb532ec30016456cf4d23d541d906618afb24d0986b83b67d95a623bfd2a2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_o_e.wav",
+    "sha256": "c39b1d7fb4c7bf10e717ea321c3847f84129d5f88d96f0d38e3afda987cbb2a7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_u_e.wav",
+    "sha256": "4be40b69e854b6997778e4661617af2fa27a96268f0cb758eb60e67a1e0bf405",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ai.wav",
+    "sha256": "45f0efc863ff3e847c4619d0303833c5e5eb5842e1d2e2d3d38dc54b573d876a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ay.wav",
+    "sha256": "45f0efc863ff3e847c4619d0303833c5e5eb5842e1d2e2d3d38dc54b573d876a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ee.wav",
+    "sha256": "82ad536db3bb11095aa56dfb8512bb848ff487ae6469ce851beebdc2f461d58a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ea.wav",
+    "sha256": "82ad536db3bb11095aa56dfb8512bb848ff487ae6469ce851beebdc2f461d58a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_oa.wav",
+    "sha256": "c39b1d7fb4c7bf10e717ea321c3847f84129d5f88d96f0d38e3afda987cbb2a7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_ow.wav",
+    "sha256": "c39b1d7fb4c7bf10e717ea321c3847f84129d5f88d96f0d38e3afda987cbb2a7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_review.wav",
+    "sha256": "f6ff504fa7374dc12d943d553ea0c33b3bc148e716bc04109d1b3d4598d2cadd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix1.wav",
+    "sha256": "1b0ddb9281a35f6980b76fc5aa0019598546eedb502b010794a38b476b902486",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix2.wav",
+    "sha256": "4faa94e648cb0fa2e80d7c99b2aebc2f957855ab73c838dc52faeb4ce866257f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix3.wav",
+    "sha256": "9329dcddd7f00b70bddc882e3925a1321d78f49f0ef8c2fc7d47f59bc58011bf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix4.wav",
+    "sha256": "76e34d75671f361f50679fd9072b727d695e7726b30755d0374eccd52e3fd7b2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix5.wav",
+    "sha256": "55eb5b1c7f25a0591b483b0d04b9a3fe94f5582d73c37aa7cfa822e3a7911943",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix6.wav",
+    "sha256": "cb450499dc3ad26ace9252a879cb21c3a9af64c68409097d58990713f2549334",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix7.wav",
+    "sha256": "3b799a752aa08edf686da85a0a7134814dbdb09b298ddef8822b341aa145b3d8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix8.wav",
+    "sha256": "5ec046d050177eb5a4454dc2391c5e1cfea5c3f74bcc2f08265486036e3fdd35",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix9.wav",
+    "sha256": "61e497467b9e4e077939b65148eb37454247b4af89f71a027bfe1e566d0aaab6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix10.wav",
+    "sha256": "e011114ce1e05eea394623fde7c68c3280865c3afc9b9e4cb45308ab2688c45b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/sound_mix11.wav",
+    "sha256": "e011114ce1e05eea394623fde7c68c3280865c3afc9b9e4cb45308ab2688c45b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sat.wav",
+    "sha256": "f449bf1c8d4890495e4ff470598da502ab484d57f1dbe832349ae8b2e967a400",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pat.wav",
+    "sha256": "f334741395ed554bf25bd3b86c588bf24d08ed54aa6b736a262ab08c94fa7821",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tap.wav",
+    "sha256": "a2cd2f4f90fbcf202790183026ab539a4a37503a98fb5db4ba2a6e0e97f62cad",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sit.wav",
+    "sha256": "525fd34d949f0651437b1897f8311ebed013d610d3814f3a115c1b1cb67c7d32",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pin.wav",
+    "sha256": "35b75f7a66e565f70d3b0e908a4e5d1887d947166c38f5c216539fba8db4634d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tin.wav",
+    "sha256": "e5567ce026a4332ad040408656a5a33da3b8ee2ecb38517a06a9dac930dfa8e9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tan.wav",
+    "sha256": "7bf67f5ed401a8dfd38c745e8f6397cf481e4000b1b2d1281dc7ee5f29ee6bc8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pan.wav",
+    "sha256": "39f5d5d8ea21c0126d33cac325198670d33db9489ff2c2d969c379952d437a53",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nap.wav",
+    "sha256": "f65d9564e58dd3c5fa6fb335b5f0310e3fa94909086909e4a8a52f88742de05b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pit.wav",
+    "sha256": "777abee602d6c8bf12f8eb644d7c8893d794f8a671397f166b98d210a10fd674",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tip.wav",
+    "sha256": "3f9928b7ff5d62246656d70894cc332c944b8fb13666b1bc009e15e7bf3ad29a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sap.wav",
+    "sha256": "5f77f4d8ecb1367652bd8a98f7fdc0042eaad390a78ea963dbad66504399a714",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nip.wav",
+    "sha256": "c5391d8149175f78230b135f101db184bde364c64ee7312d6c1f91d06e6cad1f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mat.wav",
+    "sha256": "43ae9f6da9ea9f3a2e41d45105d16562a3ec6b990a88b57489e43b31cb2de5e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_man.wav",
+    "sha256": "9d7e2cf8b014c8205b9cd38fe2951e53b9719858b0abaa77b0b954897fa2cad7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_map.wav",
+    "sha256": "efe8324b5797efdfa94bf4f2f8a5151f580eeb4b65e3ea08f9a5467fde359fd5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mop.wav",
+    "sha256": "c0462e31d72149d6b4ef8596a49894914d3554c42542d6f397f39ec879343f8b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mom.wav",
+    "sha256": "3f760c05f3ed44c7a1b794b88fbe48a7a50ad26066d2c5f00a7378acc65e223b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mad.wav",
+    "sha256": "55bbd2cd79590baad898941ba79e3e577421011b271b0acabc5b9d5c3d3cfdeb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dim.wav",
+    "sha256": "6773db16ba30cf1e9fe15b74e09e43e7787e0832add4cac86b6e3fabd3f8ab54",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dam.wav",
+    "sha256": "057debedc8d3630c72fd3b12ce83506cccff4a56000e63a8de8eb4bab9db7042",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dip.wav",
+    "sha256": "fa2bbd824a0c29cbac00e54d004222872fe37bd44a34d03029ba638733db2caa",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dig.wav",
+    "sha256": "68dea3ccdc18a5f88cc8a0fdb1aed678b6ebef148eba2ccdbd031bc2374bc0e2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dot.wav",
+    "sha256": "d2c1fd391b061b8f6fa6a72bb42d6ebd4fa127a2dafc267b094111d6ec77a10b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dog.wav",
+    "sha256": "6f328c96d496ef276f8a493c33466d6a5380af08a6a8e158420d3d79e7b3af8b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_got.wav",
+    "sha256": "8ab656816c0f9be67801e786d9ac0ed1040b9271f3cd5d0f7fa907e641b01c4b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tag.wav",
+    "sha256": "d2d829d13c7a85c6d98a1bc2491cb11013f1dcde43ae761a7ad0f8beba02de25",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nag.wav",
+    "sha256": "550e60823c5e490348acc9f6082836bbfeb5201c30a440ccd16663299aed2abb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_gap.wav",
+    "sha256": "0b7a11357f256d29974b30cc5984316addec1426467e07b0001143f56c679e7c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_gas.wav",
+    "sha256": "40ff2563bd447e487664b8999a0cda4092157e569035d5a888a342789b11e76b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cog.wav",
+    "sha256": "df1a3778efcd4703317879db921f9b7c8bf59d54b568ee21a6d623519f66dafe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cod.wav",
+    "sha256": "c4fda4eee9f6aaefc8d8da032bd938c5162029508ea95bc55badbc88f61ca953",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cot.wav",
+    "sha256": "3704625517ca4c38838f314eca75116eff9b231833b99250d706a2b324a94248",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cop.wav",
+    "sha256": "b3cb688d15583e2350e7f12c2778e043f017f1dbdc07ade0baca3846f4c86b8f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cap.wav",
+    "sha256": "f87be3913a74af2e9c1f2a43e006daa669a8e038a1a03dfe9c438b438b732dac",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_can.wav",
+    "sha256": "a9ce683795a6be43b9cca0e168647062eed83f7a37e2aa3b8ae3f1f40b206a09",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cat.wav",
+    "sha256": "3ea6800d12368533c5fffd632ef7b138fd4266369f91dfd03a81fc6084c86fd0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_kid.wav",
+    "sha256": "4d5819ac1f120de9d35e6d622d24bd154a0c8a1d576e7793cb5aa08aa8bd0090",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_kit.wav",
+    "sha256": "766adc37e98faec1222a4c3816d07323c45c7a26b4227ae52afe3b3f6c8e76e0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pig.wav",
+    "sha256": "41660c22e385be76ccf1384c6f76f04808b6998833d1fa81f5e970b67cd0003f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pot.wav",
+    "sha256": "4329d014af5565c042f2295c974f21e01a9fa208f159ba1abe789553485abb03",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pop.wav",
+    "sha256": "284c5465ce338a772dc75b5b587ee2031dfe4ed077d1212c544ba731714ffa9e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_top.wav",
+    "sha256": "18b55aca2af2956c473d95953da0a9d92debf988fea3bfc62f5df8698975c8fd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_not.wav",
+    "sha256": "e05f900757cd141ac2c6492d29df4968c4ccece939cadf76e3ddc966505aa039",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nod.wav",
+    "sha256": "57f9f9a90ce929ea73a1dd35838ad3a4d006fcd528a18ac4112a639b0de9e2dd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bed.wav",
+    "sha256": "a6dc875e763ab0348de6e51c243ee41908f197f0c5f9708cd2887dee4b45d06d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_beg.wav",
+    "sha256": "79f83c597bb158752f3642fe4fa3c032b0ebabb6adcd0c198005da5944efe6a5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bet.wav",
+    "sha256": "fdf5ff0ac412540498541c42bac0b7a71f2cd42438328456cb6ce5700b80ec57",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bit.wav",
+    "sha256": "32d6971f99a88b0ebe60a0cdc99c6a48c13f053e867c2b387f0e414edb5eb4b9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bin.wav",
+    "sha256": "feeac43e117f3cfd341d06db15ced602e96460913b6c909f718f8564a2f20530",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_big.wav",
+    "sha256": "25c8fd87c50985de81885ed5290fd908613816b2a9da7bcb69c0075e6668a6ef",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bat.wav",
+    "sha256": "e7c2cf36318701d94f3d64b5b1a6e1c0e44ff635295b556e97a8a1f7ba4a7d62",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bag.wav",
+    "sha256": "89ebbecfc0d126a5bd902791cb4c61402d972134b0dbf5e3b1e48c088644f7b0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bun.wav",
+    "sha256": "efa454b053c56b785d87647eac6bb171c79936a8ae3c3d820ee4389b7b7ea52b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bus.wav",
+    "sha256": "48b012c6a00888f7d8a5a9aea6baaa38742e62f2a860709cba6ddb656b94d48a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bug.wav",
+    "sha256": "9bcd3b4c253bbc0125daa61f6e8231961f57d7f2c3136fa217b68344cef03de5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bud.wav",
+    "sha256": "f5dae35a7cab9f940190ec54771ce6eddaec408856f068c8d697840342d76d1d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_but.wav",
+    "sha256": "5978e6c146a0be9916ea1903f5be2d69873dbdf6d71ef5805f2be58933569218",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cut.wav",
+    "sha256": "a02139325116e6df55c53270aa7f77d517fadd5ca025e9ed838621f0f0fb6a00",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cup.wav",
+    "sha256": "26d8328100b738dbcb356763b2fef98f1176149fed8eaacad019c40f4cb39f2d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cub.wav",
+    "sha256": "bda52d1057b5a2344b732b79bc686b635fed5db0450ac2f3e7149f4bc9fcf2ee",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dad.wav",
+    "sha256": "bdcf33266007362cb1e55a2926f3212063be2a78049d4188b390b17333c39248",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_den.wav",
+    "sha256": "68322ff96618406d461c6e12d624727bc0701caa642a69769ccde3e38939c330",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dug.wav",
+    "sha256": "d76d496d22ac3aab714f22c98416c33a7f40edb173c7e858c4d30b07f310a8ea",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fed.wav",
+    "sha256": "bc5a664ff746fceaaa45a222a74555e0811f675a43747c013847eb5f661063c7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fit.wav",
+    "sha256": "0955965e45d0bbe2b434b4e703b4801f528a46eb8f51cd41f37d52f7805a46cc",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fin.wav",
+    "sha256": "37f8a74258bca1095f900fbc2588387994a2f01ff4f704f17ec0434afbf54c60",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fat.wav",
+    "sha256": "f044c50973a208eb46bbb0e429910ba0a0ebc6d011ea15b6077f18fcec9ac294",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fan.wav",
+    "sha256": "3a1e2480e191e396006bc0b6bddf3031ea27c0b7061c66f34a1298f5675356f2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fog.wav",
+    "sha256": "4c817d2a82c5bd4ce19582dc554eeee43753f52009eea2e18d7c537edebfd260",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fun.wav",
+    "sha256": "2cc06a1737002cbb8507c25626a4ebfd6427079f69fde80471dbe3200a263b88",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fig.wav",
+    "sha256": "9baa393fa7585204819cb9db3067e4d958e5346ba753da180549760a69995f9f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_leg.wav",
+    "sha256": "7aeec6e4d9461d1a8561575f40dfd25cd4dfc7b40a126df8526f43270294e3f5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_let.wav",
+    "sha256": "8b088bddf2c4bdc7a04ca37325e65851c812e09180436c23c71c3ddb90d7180d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lit.wav",
+    "sha256": "7759a2d9486e1c996818decf69f06fdd88c9cdda2f11d6794cdca7198900bdeb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_log.wav",
+    "sha256": "887beca9f634bdb3b88f5714be738bb7a36beca558abcb05f60ec94622c83b7b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lot.wav",
+    "sha256": "2934ecb43a26aa605fea92e375367a3ca92ec463d19d2cdf1de2cfee3c963309",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lap.wav",
+    "sha256": "fa12eb566e2e81bc2e42857c7af85f071966f707980818fc16753e11eac9bca4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lip.wav",
+    "sha256": "14bfe29039e27c427c520e88e01aaea2b2063d88ed673a2b1d9b1ab2b3c8db3e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lid.wav",
+    "sha256": "d2ade6fd80fe5ca0cd5a7854b17325624c2aef8f8ad003721e1534743d0b0381",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lad.wav",
+    "sha256": "154407b4dc03fabd000558f64695dea4c7f8e1da44497b609c2862b1895d83c0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lug.wav",
+    "sha256": "79e297b7251dc61a192db825f1a41e1e5f4c1bcf37615cc9dd4f71e5d9026167",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_gum.wav",
+    "sha256": "b847d4e0c9371e978c4c5bd32822ef9044b78c428125f940d575b34686b9da12",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hat.wav",
+    "sha256": "2e9ab3135dc62cc1f7c7c6452840f55cf320a41b2a8d2aec056fadb18643b730",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hen.wav",
+    "sha256": "4ab6b8ded21b299dddf783eaa78a6d08f51f72e13f2639e1667a3e98ff50257a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hop.wav",
+    "sha256": "b3ff54e086eba87738f0c3b46519b2dc37704fb25a00f288a807511763a32c5e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hot.wav",
+    "sha256": "7d6c7dcf1ffd74d316119aa761b408c8c85b5f5c23e74b20b80b6c2e259edc51",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hut.wav",
+    "sha256": "8865504d56da2e60022dcda1272e81882c3d44129be28b5116c9e3b7afa94cc1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_red.wav",
+    "sha256": "ddcc6df0317009a22676650752b02943d1566d79b63e0e40109193f62697a1ec",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rid.wav",
+    "sha256": "24d377930009d98c400d09b5a560e08fdcdc8727ae48cc572f158b9b04cff8f2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rag.wav",
+    "sha256": "c6a987724bb98daf71f598cabfa90a637556fb32e8b802237d320744cc8056ab",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rat.wav",
+    "sha256": "4b80f97d2bbf1c67e61d06d7f131b88981527975daf5a7a35d79a834b0f71468",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ram.wav",
+    "sha256": "c7a22ef2840f68ef5b8b33f0888a8dd158436cd2d0471e9d0a69b1952c287631",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rim.wav",
+    "sha256": "3ea7e1df012b6dbcc2f4a2069bdce66649f10c5c1e834660b60e3a47f8ee65de",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rip.wav",
+    "sha256": "8066212b8d1236bb1ec3aa3552f26d1dafe078d4859765c545ce2fd625ed9e1c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_run.wav",
+    "sha256": "e59fd919b218f3abbb2b32872bad3bc463cb144db515bbabb265a98e28a7c3de",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rug.wav",
+    "sha256": "76f3f351fe2b525b7ad26d6eb8d6b370ba43c11910c98b3ae723ea001c0cc8e9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rub.wav",
+    "sha256": "f695d3bc0841d608251722c4775f2a6dc012e64db7d919cf1ff3cf081c1088a5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rib.wav",
+    "sha256": "c7815a12e2641a3265c28e15d0a52fbb4c4f054c0bd0b5235ad416f1716e6956",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rob.wav",
+    "sha256": "3edd56cc289bc2c478bfa17c3ff08eeb070951d786435d911ce93ba8aa2097fa",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jam.wav",
+    "sha256": "bd962b350ed84ca106afc6aee9acc27217576c9bebc70c9f996e92c4631c0343",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jet.wav",
+    "sha256": "f1e524589c0f109db7bd7e0ac28e3037ca1d2a88bda5143981ae0d116dcd0d15",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jig.wav",
+    "sha256": "85c8b80fec26048040275fdf556ef6016c57d19ab14f8e16462e7678883968e6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jog.wav",
+    "sha256": "f8764bd22a68690f7d35a93d42cc3542c00413deb310fbc3577d7b208be344ec",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jug.wav",
+    "sha256": "72103b5e079553e852b485ac3801ef6ee2b1897810ec0b8c4f4aaacafe4179c0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_job.wav",
+    "sha256": "704e44f32f8d4437df2af8b7e9d7985a0ab19a5f313b3fbe081e1511edb5175a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_van.wav",
+    "sha256": "191690aaf78ac8720815f00743d7943016b1b78a2ef710ec2951b5eb7224a37a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_vet.wav",
+    "sha256": "f162a7e88a07f37239396178af79f7c6bcc51df53ee019ce12c5fdf6bbf177ca",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_vat.wav",
+    "sha256": "43806d5f0041f24120fbe32874bcd9e3285017aa9c5e4df3dbaa233ac221f2ac",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wag.wav",
+    "sha256": "a3d86319d9511dbf59ae44e7e7d514a9ad336098d584ba9d129c15dfe696f997",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_web.wav",
+    "sha256": "99b8c959f9b142828d1a0ed1875fc702f41c0bb63f64cf91dbf4ee67223415c3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wet.wav",
+    "sha256": "fa25652b0926e53bd567ed03f60bfd47fe187d540f28154caa42945449d0ddd4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wig.wav",
+    "sha256": "b11d68c3bdd46c00a9e06ca80896a38ab9708f3d43db424bd0a66f150313cf5d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_win.wav",
+    "sha256": "a891daabb22031e53383b78d920dc939dfaf2384d0249f475b89c169aee69aeb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wit.wav",
+    "sha256": "05f318100a6d39caef8dccc6af96e1e0197d3a5598d6e6be6480799096d1d2c9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_yak.wav",
+    "sha256": "52c07b16c2e2a1bef4e671ca3a526bdf11b03a625580bf480b3c52f706498092",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_yam.wav",
+    "sha256": "26a7c4e15c8f7b7b47aae33d3f29747c1b1ff5b17f45125ddb9eb80a38ac76b9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_yap.wav",
+    "sha256": "e15c4ad35eb015dba8e608ea520e3d3917bdfafd82b0744d0dfc6ee4ceabf85e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_yet.wav",
+    "sha256": "26a94e37aa57684df708160567ab0a4f6186e935b93267f02a465a0a3e22cc00",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_yes.wav",
+    "sha256": "fe9121399d464d0719c0ec6596e4bf07f376c58869e6861368f5bce8ca3ffa20",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_zip.wav",
+    "sha256": "c92a3fb26421c0d1347f4cab78b18330c59d1ada4db670bcacefdecb7bcfb7b7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_zap.wav",
+    "sha256": "4d4c1b02c082bd9de05043c3df0d6a456026d731f0ea0b893337cb8f29b1b6d9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_box.wav",
+    "sha256": "1e36761d375fd758afcc48319f8894e1914805c2f6cf82f8c8bc1d95a6df261f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fox.wav",
+    "sha256": "116b5b3f60ce09f5494411a946787eccacada0855d11a901eaa91d875f6f2233",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_six.wav",
+    "sha256": "710eefebe4ab4b4f397aeeda3aa74bd022f3c0c659507a61146e50a8ade7c52c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fix.wav",
+    "sha256": "d88899686ac54914dc342fbad7aad71557d1b167be76627c7232ef55ab3937e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mix.wav",
+    "sha256": "b67d56670c587185c3e9d661d2dde2d714cab720a6f3af25345fb6205dabdd65",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wax.wav",
+    "sha256": "1fef9936745ba9ab70ac533f93b0ecc3b3fc5d6e41938d4b027b1ebf6d5c884c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tax.wav",
+    "sha256": "5f6bc15cf0785ea3223e5c9c124bca75e73371c65c6deab2d8545d37c4a24880",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_quit.wav",
+    "sha256": "dd33bc5120b7eac9e9fd6c991fc71808141ccd014c6f48537d391a173dc4427b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_quiz.wav",
+    "sha256": "48672a0e7c10a2804f20ac6716829d54f7b59d0d269efe9efff59f583674200a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_quip.wav",
+    "sha256": "cbca293b74fd23ce052c717fce3204773a997c3cf1e55631945c929b13685141",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ship.wav",
+    "sha256": "a40083970a1427b1d257e394bd33a6e43f9682c4a5444a66ca136c363b87e6a4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_shop.wav",
+    "sha256": "c3f2d8040083064b1ecb0894e102fb5980cdb724bebc1c4086ae5053a7d3c49d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_shin.wav",
+    "sha256": "109512dfb4c294ad4f5fb0c032f4b11f242890e972671846bbb255309aa18598",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_shot.wav",
+    "sha256": "cae5ba16efd7386537d8d4c8d2b5189e0b62035e86a723d7819216ea4e9a1db5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_shut.wav",
+    "sha256": "6323d43c69ee02c2da46387bd47a906f3bcbb1963b859f080c314f43c776f190",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fish.wav",
+    "sha256": "f5427d3433f71bb5f6306b243060b65b216c05adf8c426d3ff7c7778f6482f75",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wish.wav",
+    "sha256": "c39103c05944df621cdd91b38340a565bfb7f4c0740b2677349e384242bd85a9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dish.wav",
+    "sha256": "8cb4ca03e87cee8ae273544ad364fb3e354c9cb338a5be34f6dbc8bd264dd490",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cash.wav",
+    "sha256": "37bebef788e9ca95d633511827c4e01507f91050d1e283c7b1cec3509aac20b0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mash.wav",
+    "sha256": "caeeeab32adee60cee2f0c49732667b53953d492dfd5a7ee253aefc4c74ba060",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rush.wav",
+    "sha256": "78f134a8ce43b5fa262317c8c87e92468f0bed17701e3f83d71208b03816d6e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hush.wav",
+    "sha256": "7b5e4704cc6f4737fb416d7b7170d288e4e0771d3e2c8a4c5d58f7ab463bd5b1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rash.wav",
+    "sha256": "8985701f44438b0d35c17f660daef4dccdd66f9d3214091084f4ad59a1437d2d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lush.wav",
+    "sha256": "9220f83eb7772fbe494be9671c7cd3bc57c9851dc2ff46577921a92182305eec",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_chin.wav",
+    "sha256": "8cbc62ec2a56f85678085824884bad9f3176a24f14332c0bab358ed60d8a77da",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_chip.wav",
+    "sha256": "f40d0f4f5c1133c8ee061f290da9da2b6816dcab433d31ec8bf2898f6b36ad68",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_chop.wav",
+    "sha256": "38c9601007c6a866bee6e7a6932c50715ee284d64fa62a7cefe9232328dde87e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_chat.wav",
+    "sha256": "07d1244b4cd8ddb8e5e299381318109ca610c26db772346231c805a254b56df2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_much.wav",
+    "sha256": "bfbeb44632f78aa7f4f163283c504de1c30f4c478a3fd68869c11bd0cdab2f72",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_such.wav",
+    "sha256": "be65a7933aefaa8dbb9bbf5d26f6bdf13ebb06dc96193863c6f6ba90faf91c3c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rich.wav",
+    "sha256": "a49a3a61be18b23e8d7679a1b88a7afb6361270e5b99c2083bfa599cf652bd6a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_thin.wav",
+    "sha256": "b533a873589d97b3297bd414713a5085fa7984553996d8b534207a217c6cc9eb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_thud.wav",
+    "sha256": "612610fcb7a01a344e88dd4570a950eead710a5b3a3c273c72418b0f7b217dfc",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_moth.wav",
+    "sha256": "2e51c7f4360e76f453a2a698dc879fc094daa2c3b5eb8c887b02fb4aec5be62d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_math.wav",
+    "sha256": "5d4a1427f5c0c2c8f95866bf80b54690d6da2045cd4caeb13abd5b5e52dab69d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bath.wav",
+    "sha256": "081a4a4b70a9a4dc09b0c7234f55c2cdfcfaa134b4946d5d7ac60eec41a9ebcc",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_path.wav",
+    "sha256": "07122415faac5cfe1843fe0ff64a221cbb79d34ce2569ae8204e378bf8ab19eb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_this.wav",
+    "sha256": "b01a93f356d3b49445f564dd0c285e2bb07e1b498f094b59fd8bec7bc8e87720",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_that.wav",
+    "sha256": "a83758cfdc94e5c8b6f967178f374ebcb6cc008688fa8700b7e61faa4c0f5924",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_them.wav",
+    "sha256": "f9ae19a3892ab674a2bae048ac5d041adafc96f02be52741c8eb88e07b7bf1c4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_then.wav",
+    "sha256": "6aa0dab3bdd7236093531c950f2d6413fb1d613006f5eef17e92e6d474d2129e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_than.wav",
+    "sha256": "9ca196f11d0e8d2dca7d001952d153ec2cf8b712f924a479a75f8484b1d26b4c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sing.wav",
+    "sha256": "18f223fb50c1b398651bb66f84f12a0a28acc0b6218b84a08d25e2f90f177082",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_song.wav",
+    "sha256": "532d5a04d03195f153134f2fbbec01dfc8a36db1902a40d4f89ea64e616aeb36",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sang.wav",
+    "sha256": "9cdd607238666b9e8e2b8100ad4e6100fae6f36c230c450bdfd4acf5fd679105",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ring.wav",
+    "sha256": "07a6103c8ea59e53f76549fcc99e24d541023d690bf64c284fcc74e5597b72ae",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rang.wav",
+    "sha256": "b043be64ba2f5cf32fa61316de8916e10febf0353cfeabc6e140a717214aa69c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_king.wav",
+    "sha256": "53069599c8ddaf929588f30726b4e84a9e5ec232c5645096649243aeb14e1953",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wing.wav",
+    "sha256": "8aac002174732a0dbf93c0f17a426f51db16112a713248c1b841ac7e199a2619",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bang.wav",
+    "sha256": "c9b5dd3d4c7da8cf93d83f1f1ee553916b5edd0a87db9bc473edd16ea4245729",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hang.wav",
+    "sha256": "6ea7c6e5cb44a38bb937157ba20cf2627856aa4c89b83a9edd173474fc5da7f9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_neck.wav",
+    "sha256": "2fa660e9146392bb2101bf7141066357e7d1b53bc94a407f36c86fc2e7ff26e4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_peck.wav",
+    "sha256": "706e2121ad5b106d2bd56d47cd4475722bd224cc487d19ae995a91fb0c0e8f3b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pick.wav",
+    "sha256": "b925a9aa0cab447b92ec1f2ff233f143fef06fce40b167cfb9ed2fe23f38d335",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pack.wav",
+    "sha256": "529acffbf1baecb6ec9c7770c1a46179334b47fcc3b09f453f8240d069174154",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sack.wav",
+    "sha256": "6e51847982649d18d40c4d8103a0307577c014767a5912005e340d828b267400",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sick.wav",
+    "sha256": "39293c522a3081ca3a0f19fe3390d33721dc81f6b5a6c0a3699d5261401eff30",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sock.wav",
+    "sha256": "29ff10f47e42707bdb65acdc18ccf6792a9803bd4c89af0b16a83038c011b589",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rock.wav",
+    "sha256": "f7dfb44e6dd19653d7678834a24101bf0e572de10c34f61f2543a2c4dac2b3d9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rack.wav",
+    "sha256": "d1a3c64a101c6d4539998ea6914f64b3ba5060485ce520eb82372faf281583a3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_duck.wav",
+    "sha256": "89d6aaf48c014e5ebf3fabb50f5797680b78b4be2e7f44c8faae5ca5bdf2e369",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_luck.wav",
+    "sha256": "55eb015c527fda01995820040221630d842bbccffe542e056f67bc879d300655",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lock.wav",
+    "sha256": "3395a3837882978dc1287d793bb0334740fa5a0772e78c5f981bed812113fe30",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_kick.wav",
+    "sha256": "c5dcd4044be3484dac95e4bc63f631a81a0667cdc66bfe10ee8357b38ecb7b59",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_back.wav",
+    "sha256": "f5513bbb94e513781534a55a90a0d7ccc1d5898a7e4ab88313b93013ebb6f26d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_quick.wav",
+    "sha256": "59320f80a8cfa159d7c97045fd66dc7a56c1e02cfb35c689694f28205b3aa611",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_stop.wav",
+    "sha256": "02973e259fda2ea5bbe0e1d27d63832ec8ec670e72c198e818766dbc9a00fbc7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_step.wav",
+    "sha256": "3a5a239e0569316b2425d6a01db512d624a56c02d4080c682fb88247b21f933e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_spot.wav",
+    "sha256": "6feef9db7588de62d08ad47559f9b21941f5951ea383e45367399affec1cd6e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_spin.wav",
+    "sha256": "79521753d7f723fa04373b1d566d23370fc5599387dd400c5a6bf8817f793501",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_spit.wav",
+    "sha256": "ba6ee54e96081f42720336f9b2f6a376a13bd69b90295ec9b8d17d52013504a9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_snap.wav",
+    "sha256": "94f8e0968182defb86d0a2fbf49c0e9d09479dc98411f838b4b2d29cacc9d649",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_snip.wav",
+    "sha256": "8c8271e8b1e986b96e1d852c5df390a7206123d64a7c37daabef6e8cdca89119",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_slim.wav",
+    "sha256": "959e6f1219faa3477b947a23de51a0249f95f4ffbfb11ad95b28e999a073b9fe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_slip.wav",
+    "sha256": "e6dc8d0ff5f87c88fdc29964d7028835e8b9c3cc4e5161fe814e110f5561b61e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_slot.wav",
+    "sha256": "619f97e24e6d556d9de4ff8df8affe18f9742343e7c0982d6c993d11fcb8303c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_slam.wav",
+    "sha256": "80732d5271f4ca8b29f5fac4bacda0170407f90238377dd6a99b606abf40e187",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_flat.wav",
+    "sha256": "aafd8b10237193d055458349e66e1b2122237f24c1a13a3f46a20d18c422e1a3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_flag.wav",
+    "sha256": "acac33e0062826007d866448b9a643d1cee6aefda74086b441b5f2cbec765778",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_flop.wav",
+    "sha256": "f9a8d5e1b7dad980a4c74fac4e8086eb7ffee80278c4c262dfbf677d3a36f921",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_flip.wav",
+    "sha256": "2898bb59f9067606f4064efa9ebe75ea130581694130f3087d75022697488b5d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_plan.wav",
+    "sha256": "e3bbcd8fdef6dd0084481d2dd2e16f7299681a93cf8e52561219207c7261b3a2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_plug.wav",
+    "sha256": "423447430953fb338a0dc44f45135fad81a6e126714236dcb624aad152a65642",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_plum.wav",
+    "sha256": "f8af29c2131791418163c963575a05501f210dec1549e4d64601276f17611e81",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_clap.wav",
+    "sha256": "e0c34d88008f6254d043cbc11b95af3974bdbc84bd6abd6c8ed8584cc635e0ab",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_clip.wav",
+    "sha256": "39caf95e217fb3a132d33f51c6605725b618b4e9201696a7e24e168d880e7a3d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_club.wav",
+    "sha256": "8a6244124d8de2b72a38386614f5546dc5475c595fdae0c78f74b5747b5d89b5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_crab.wav",
+    "sha256": "c11643a0267bea20030e23c9838d7d85b77b909f913ef806baadfe50ade2ac21",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_grab.wav",
+    "sha256": "621ad65eeeb35d309d887e5068e5d0d885bcfa2ee4bb87bfaaa61ac0006ac9d8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_drip.wav",
+    "sha256": "69aa7e4fc4f33922f0c68df5ec1cb5c39db98f1abcaaea85bfd93b574ce4dbe9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_drop.wav",
+    "sha256": "2feae4c25caf21d9b427f6c96438d6464a2aff161bb37accd57c5dc09a271f87",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_drag.wav",
+    "sha256": "5767a37d16e1ee8d70f885c89a480dd10e1e383b203abd5d8a4129317c4b4ce2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_frog.wav",
+    "sha256": "51a41b4d754f91804c887037f322ce6b1911a72e7184ef9851cbc9274efedd83",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_grin.wav",
+    "sha256": "13a065c7755abfd4c22f9afb5816436ed7ffea5efc2db6162efddb2dbecf0dd1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_grip.wav",
+    "sha256": "e2fd57319bd09df73bc2ab69ebff06a8f9ad7fcdcbc49eb039b8e2157529d88e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_trip.wav",
+    "sha256": "928f521f3fd7020fda287fcd7b1f3b13d86b073bf1d20fd48c5ec5d7d551637b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_trap.wav",
+    "sha256": "23d31ac54ef7774a6dff9d848068822a2f4ed093330bcf20458bc0caa17fa41e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_trim.wav",
+    "sha256": "3ec96a1ff30b8c01531d6db9dce384d75702734ab26f38fbcdc27322e342781b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tent.wav",
+    "sha256": "ca0b8a6e37e1f2ab947d8f974d1b1469ffff077aff114f55b4bd4a2554132364",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bent.wav",
+    "sha256": "97bcf00686261c973a5c35ce312c19d3d19f71ed3b8872bcf5ee12e99ad837bf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sent.wav",
+    "sha256": "e83151f9cab323a4ffe877619472c08a8a9931e8f8e897e4eedb735979259d3f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_went.wav",
+    "sha256": "b3a921e5cfccc54eaee26986ce835dbcd0859ceb74ceefdf0fc72657b80e9261",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sand.wav",
+    "sha256": "bd95cc1919a5e3b4c21f6d68a4f64d7f098d7fa665385c8ea75521ac16f63dc3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hand.wav",
+    "sha256": "44a2c487ed6dd7b4eb06a7fb8d6d8fc85c131751e5400d8233be7b683905664c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_land.wav",
+    "sha256": "a4861a6786bda0707b7075c0d484175288ef821606543d515f380dd079f7448c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pond.wav",
+    "sha256": "c49af6009ccbe3c0044c8fa7fa7dd5a2eb2da23ce78442f7667bffe303c149fe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_end.wav",
+    "sha256": "323a20a55ae42eaeca1ad30dfd36a2cf004942ff24154b76395e0badae3ea90a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bend.wav",
+    "sha256": "190aa5f9e81de43159e8e14d6e91d8a33054d49c7769851b46873519d456d363",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_band.wav",
+    "sha256": "6684bf62f068b6a90fbe2fad49a53bc86205b783fec3621304032d1a35b03634",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lamp.wav",
+    "sha256": "52cdfc146f6f34dae91d114727f164ef9f630699630dffaefbde60a4bc2c824b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jump.wav",
+    "sha256": "1cb8b775c0d7e66550dc6319e9ab14d9d0a13e8edff20852692c9a42ac3de266",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bump.wav",
+    "sha256": "c3f19d133c20c0b88bb31cb648835c8ed1f41193e959570d1893ea2016d78afd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pump.wav",
+    "sha256": "9d36470061dbf17d6d7404c81997fcca2a11aecebb4c6da3bf3e8eb9aacde729",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_limp.wav",
+    "sha256": "228bbbeef6649bdad695ceaaacb33fa171450046563da403f3847d5793e771ea",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_black.wav",
+    "sha256": "71d2ff52d1f05bd027fe0b6849b163e9c52c18cde7e06085f9f216c14620ecaa",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cake.wav",
+    "sha256": "0ac4c5eaa76ac3d0eda3afb52d0ff515a9ab3844690a07427202685d32cc5ff2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cape.wav",
+    "sha256": "1d229f2ea4abe469150da16e9e5960607d63c9ec7383034204bf54aee84e3acd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cane.wav",
+    "sha256": "cbb50a3d5fbf3257947ea3afe88d474e5b1bf36d6e3bb8eb90d3fbaae9f40d96",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tape.wav",
+    "sha256": "a9939d942023dbe553a5ba5b3979432db59b8c3bf7c5a442ae4e974612fb2f10",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lake.wav",
+    "sha256": "02f9d3a39be18123d6809a633699e5c8bdb1d8019d062b889c5b2c8f26cafd8c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_late.wav",
+    "sha256": "f5a38a5a3dc0fbbe8db13879d72c6cebe3ddf75599e4cabe42f92f7c3e2eb509",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lane.wav",
+    "sha256": "358e5178941e374f06d7805001a603a80f4a80bf654b44dd9965bd90be1e0ba3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_name.wav",
+    "sha256": "86e579ca0ca391251ba891d455e60382e621ccf530dcc0e270043518989d9ceb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_game.wav",
+    "sha256": "9c72601dbd4abcfd34dbfd507245ac44881ef8269d108e2a5f011af61c20a6b6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_same.wav",
+    "sha256": "e0065a7ce65c9ca22c6aeadcf419bf31fdceb00a10b217cec19c5dfecdc44772",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_safe.wav",
+    "sha256": "675154bbca328a9612332eac7f51d04a34a3220b1a6328fcefc7fb5d7b38a900",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_make.wav",
+    "sha256": "f0812e904056f076022308904b404b269559a74ac28bc9182088dff251e7b657",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_take.wav",
+    "sha256": "63ffd0c0417ce236d31fbaeeb687bb273514f52d2eb9405c450ff275536b12e1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bake.wav",
+    "sha256": "58126387e0f0d22be7288f362e97dcc5d7d1e5ac10b75a3b2e0dc7f1a7fd0bae",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rake.wav",
+    "sha256": "26486d0e3e9f7337c283b46a799bb36149f586a8b5b037365301b247840ac4e8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rate.wav",
+    "sha256": "83622d308e0818e8cad5b2bf67dd5494a320852d0d936152480833be8c3b8148",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_gate.wav",
+    "sha256": "46892f22a7505b238089037670c9acfc842372e6c2e32c097d3f29df2912236e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hate.wav",
+    "sha256": "09dab5212fe60bc36689ed3f4a50a9fb7b94c4cdcda49e93f90e5a347c7bd39d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_made.wav",
+    "sha256": "ffde4795094d39308a55ed26ff69e1e701a26da28a45201572b8ae1eca2580cd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_kite.wav",
+    "sha256": "842da422d2efc92ee49236588178ac16748ab9901e92f4225bb6736f8d49c74e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bike.wav",
+    "sha256": "deead5e2046b3d1a021c5180790f1a09fb008be19dc2e3ae2d9bb611b838c393",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bite.wav",
+    "sha256": "8c1c3dcb8db6bbca98c4e793982c9ed3ca0c9e26ac0afede1ef21e6ab08257a6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_time.wav",
+    "sha256": "4532ca64a39aa81107a4dd9f4116c348f6b7048e722c051af59c27bb4e96d8b2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lime.wav",
+    "sha256": "d58f1dc4f31fd74085db3958a9a6d470c06dc5bcd326ccaabff4ce2abd9f7bb7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_line.wav",
+    "sha256": "a47926ff0145e75ea97e027164332b6f23bde2fdb1c6a34ce3c0ee99a1156e2b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fine.wav",
+    "sha256": "e3cfaf5990eb7609d5b9980a2ce3c995fe39bf97485373bce0247cc7fd1a01f5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mine.wav",
+    "sha256": "099e528cf01ac031e7cd1b02723ebbc3179e025021f65a4ec210cbbf09a2467f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nine.wav",
+    "sha256": "4d1c9fd5f0515986abb2772ea61862fd3f3a181316b10057a35dae27a42d918c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pine.wav",
+    "sha256": "89360655fff375bf0381faf35b823f18a9f15d5995a7285219af892cf6862dce",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pipe.wav",
+    "sha256": "d6bc8659b90a45b7e53d42a9974111c99b87146cee2ba8a7d5a49b80b0ac74d3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ripe.wav",
+    "sha256": "710766f50a5e8be64a9b77e45db8011a9cccbad5180ce2237817e68b62973363",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ride.wav",
+    "sha256": "ca4b9472b8527bbcea2dd43db870b954075b8682ca7822239ea4100b75214dab",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_side.wav",
+    "sha256": "d70b1ad51d49242dc04ab361a60ba2fb68317a50648adc18cb32aa51bd9d97ea",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wide.wav",
+    "sha256": "602c81e786db3f68abc3ddbdb1d917a543bd6fe608ca5bbcce5914f2791d4848",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hide.wav",
+    "sha256": "ddde71c84c882b9d584e01871086a9940de63b3cc00460edbc4a22270344348d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tide.wav",
+    "sha256": "80f8b331ce64bbcb2d404f91d3f5ebad2f470b2cdbc995999bcc27e6ad5a3d6e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hope.wav",
+    "sha256": "d43dc6ac09b06a98d19c6112237727a94b00be9ad1a6dded618547ce65fcc617",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rope.wav",
+    "sha256": "76beae136973111dfc20d7d830980ab3d936f52acbda02c63d9cb0a9d5a15acf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_home.wav",
+    "sha256": "5308271d1aa5de1dabf9dfbc3374fece8dcb77640774d6b4e2b38b2df46ac89a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bone.wav",
+    "sha256": "3373f8f177ec469f06e34d425b4db42b14c472bf3b1048ffb939d946e3339394",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cone.wav",
+    "sha256": "74a1283a84c285f0f7ebb1d5fe23e8245033c77f2eb468ff1f894e00c2fae945",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_note.wav",
+    "sha256": "26c2d844732f02b541bfacb1a977e6dfb5e969943ae5eb0ce11b173f95f03abd",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_vote.wav",
+    "sha256": "464c7a31f714cf4500ffe8b5145be44dd47c5a6f29121b7aab6b0bf19ae9ea0d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mole.wav",
+    "sha256": "2633719c7a5452854fdd684e1afc52be42ce3a95f3755ff543e5c4df0bb13e67",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hole.wav",
+    "sha256": "0b8e85e4e14ac50c43cb568c389031220845cf7088cf7667bec5f677680a2162",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pole.wav",
+    "sha256": "6a4338abf88d9e5ad016f33611869d63fd11ed19a04dd43371dfa9f62d985545",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sole.wav",
+    "sha256": "f8f6905d824f721f9c511a3912104bf9a60d1f33e872eb201d91d3df3ac56cd0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cube.wav",
+    "sha256": "1ab5c4951d2aecb74b8716b690dd26c6d4a5a68ca7c9f4cd751a78c9722d5f5a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_cute.wav",
+    "sha256": "1630e197213962a79be8c867024523b102c72e5c2a899d1689ee5b15a5b2c764",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mute.wav",
+    "sha256": "1fe453989e7bff2d54d8f5d56608ea7ca88ae677a9a7b63ea921ea1ab0bf7055",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tube.wav",
+    "sha256": "4c34dd46e2c4e7d9eb43d4ca7f86f83e84d221fc57921453119b5a3ddf015e01",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tune.wav",
+    "sha256": "4013f807a5de495a996787eb3a7ff0925df9b5a7008eac736877ced8eee95b6e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_flute.wav",
+    "sha256": "73339cf058159a6bc636afa79f6ee292b80b47a4b9aa80d09b72a6f1f9a37b41",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rude.wav",
+    "sha256": "91d13dd1dfc831d339714be261c55839eabfa48191ced853b0e3fec642e18c32",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rule.wav",
+    "sha256": "16e9dabed8ae6dc9e08ca469361ad193664d2ddf9359824806f922c497566e2c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rain.wav",
+    "sha256": "6373761a834c45c2e56df345caf5beaf15630534cbd2f013f2f4e1fc03f569fa",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mail.wav",
+    "sha256": "4a8a295ae42fa9f25ac0cde7c229456053c55e92570794def948f3bf6649ea33",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_main.wav",
+    "sha256": "c60e49b2e089d6d7bed2a3ce69cb6aec781f9761d080b7dab15695a08b49a815",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pain.wav",
+    "sha256": "227c8325c792531f67ca21e28945af5491bcc5eb343497f8bf1b2a5b306d50ed",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tail.wav",
+    "sha256": "5f34775c018cb154751ab7662694af53ebc78842fa06901d5275d36d7c7b0f77",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sail.wav",
+    "sha256": "4c83a7f180f97e436accea35fca99e804490bcd9aac7515f2d43fe71b73871ca",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_nail.wav",
+    "sha256": "96d5057946cb22f2e0f9b3cc372f88ef8d7afe599f9f7ec784b2842fc3a8e119",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_rail.wav",
+    "sha256": "75c24d46c1a90a9831fba5afa1fe7054e0d0f4270b2ed698c4db5f2aabc32ff6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_paid.wav",
+    "sha256": "2c94afc61e007842a945b30f16c298913620c9b33480cc5aa0cbedb053a2daae",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_wait.wav",
+    "sha256": "fc919e1e2d7463c9f8a608d0c3cf3d607aa3c833b511f5ced1167cc52fcfb70b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bait.wav",
+    "sha256": "62697f7e01d9c8c070ad8f03b966a005bea9540d7e181cd649deaf882fb54e3c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_gain.wav",
+    "sha256": "77464e186cb078e673ed464dfdf6ba3bedbdc5ba436b7d636158a6d050b06c7a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_train.wav",
+    "sha256": "607e0e6add99538737f20a8d63992dddcd261077aed458c03248e8be9a09e313",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_brain.wav",
+    "sha256": "3a910d275a0520cddb0ee31b0db79d12e106d4ee0c52d66c85d5df0ce1bd8b1e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_plain.wav",
+    "sha256": "657551ab09b58214994d8f48fd8bbe3123ca7020cdbee473671ce0ce14fb4e66",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_snail.wav",
+    "sha256": "95cf7d4d267dec983d9be6a474dd977dd5b0065bf0fac8364cbeb2acaa268c5b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_day.wav",
+    "sha256": "9e008e5733ea25ea98eb54a4f85c0c1d948306809b3ad63c8a7a5ac36db49529",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_hay.wav",
+    "sha256": "111a58a3aaea7825b041007dbe6d988181844869f5c3612fee7f02de5e358a29",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bay.wav",
+    "sha256": "1b90d9f9940f344ce4f9e48af772de9d52bfaaf46ab9d9cbdd10ef1fc616dfdf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_lay.wav",
+    "sha256": "6ec9dea0b4957592ceb40ab2ebb2f4b1bf1f70463eefaac8ba86060e0b0f3dde",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_may.wav",
+    "sha256": "0a8de8d8ab4b026088c12d7b5f00c24a3d135d7dcade3cc0b8b73797b5dccb1e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pay.wav",
+    "sha256": "c90bf880dfa5ea9c74d181b06e7e848c3e9f00e6d7c4c9e0d2247726cd53432c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_ray.wav",
+    "sha256": "b7966ec900f24dcd8deeae98bf0b377d68f3ff8bb9bc4a454a3ddea11baf2958",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_say.wav",
+    "sha256": "824a13ddfe68438cee13faf4647e01b223eb13ac1e8be92e1ec37a46a7cbdb03",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_way.wav",
+    "sha256": "ae8dd87e1dbe349d4a5f300313bb2f969b5399469d89978109e1d63bb2fa5420",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_jay.wav",
+    "sha256": "a9d927b4312ff8c3aa7201822c758b20062980e1c98c31dbf492317afbe75d09",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_play.wav",
+    "sha256": "b61f91b74adc36d5cc65b08fd7b0d42f1a461223836d0264c25aedfd8ebec1ba",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tray.wav",
+    "sha256": "cb4d040144f86d1c256f1b7de2ecb5042015fbb2da534bd85b394828e61e9ebe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_stay.wav",
+    "sha256": "ea0ff49174ac49ae503de931e822ec9a6200740ab70c228dbffe5b4e57e102b8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_see.wav",
+    "sha256": "bc448fb2fbfcd7ee415c0740d847f7077c9faeef63c0bbf02cc6ce761019b9d1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_bee.wav",
+    "sha256": "d95a895c57f88ecc5e4eec9bad2cfaf9065de4a1121e1c2965e1c219f2cfcec8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_fee.wav",
+    "sha256": "96e2779fda43e671a1f0d972b74e44355180ee0ad5ff0613fd757157daa324fe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_free.wav",
+    "sha256": "ea8cc82d62bc220e1c07accc74117baa7b6c6912442ad27e82e10dcbbe83e415",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tree.wav",
+    "sha256": "2630cca316e7e5f71f0588cb01e5aeaba5e8bcdccfa945413d2854099eae9a7d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_green.wav",
+    "sha256": "87c350004aaa6be606ff7a8f400a086153b560b61ec5e098a9c502e49aff168c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_queen.wav",
+    "sha256": "e65de9843e7d4723738c140ac42376f0d1059c1012422db813567c59d00d44cf",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_need.wav",
+    "sha256": "0ab1d57860e6bd39f11ca69d0f33ab9fd20a9d83a82f2ff92dbeda1af51bbd66",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_reef.wav",
+    "sha256": "76034f09a3850522f8511a598588cf832ade7dadf313033ea740353ca8980df2",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_feed.wav",
+    "sha256": "4b590aebe6e3878b610a16e1ad52ba5aa8c093a51166910cdbf09c592bd1a06d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_seed.wav",
+    "sha256": "963e5a1f266d1a420f652e58de893f3b80ac459d132a7e660e830f87794dbaf3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_weed.wav",
+    "sha256": "a472afdf73f08f084e6231d24a77df7db857a0c0fd3120b534130c439e9cce36",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_week.wav",
+    "sha256": "8f26c487259c38c1df58772e5555ee9f8b4f0f7b81733daae9f5720e64edc405",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_deep.wav",
+    "sha256": "8dfe43a4c892bd58183d637dc7a98347b35846d13f8974520d0fd31532d92365",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_keep.wav",
+    "sha256": "c554e83ead88fa15fb5cac05b8759b3806207724808797f9938c0eadbeeba553",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_peek.wav",
+    "sha256": "8ff49b037cad41a8878d95298808adf12bb0de415281afe8c9dd269fe5c56e62",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_meet.wav",
+    "sha256": "ead5d8eb2ec9cf94f115c2c0d78d3d3e0c38133b6fbd2fab328e51a518555af6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_feet.wav",
+    "sha256": "1fd8c81d856d52667eed2b221584e5612786bae3ee3aa6a0b6e8fd416632bbd8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_feel.wav",
+    "sha256": "84436dad569c5e51367049c6f439f567d657d414081e6d4be9d5ec8fd1117c5c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_peel.wav",
+    "sha256": "9117ca2dd8914a7a2ad525b089cde29811ed73499d4d664e33b125319aa72159",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_heel.wav",
+    "sha256": "b9687cf114bc29d0fdbcede188899cd4839b706796737175b8cde38410846d74",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_seem.wav",
+    "sha256": "302163c7e116388391a4b17e80d688143d20f15dce2ca5ef347745c6a6e9a31b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_seen.wav",
+    "sha256": "a4c2d09924e398126bae8fbee1444818211fab3d9656d2451cf1765a86569b65",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_keen.wav",
+    "sha256": "e61c5d3a927a2b26b20e7d750e0778c436ecbea2064746b7605e314c6eed550d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_teen.wav",
+    "sha256": "a67d598b3eea4af9e8e114f759bf632febdefb445122a3ad3de6a96a1b9d85ea",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_sea.wav",
+    "sha256": "bc448fb2fbfcd7ee415c0740d847f7077c9faeef63c0bbf02cc6ce761019b9d1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_tea.wav",
+    "sha256": "8e32a3e85ca2ad6e17209aafef3654fc5b8cf90f024dcca7fbd47ddba6e2a068",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_pea.wav",
+    "sha256": "2eb626c3b90cf3e15322c811ae67f7fe8902c77b5c3014731663507a68e997ec",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_leaf.wav",
+    "sha256": "cbdca0da3ec33b0ec9f235fd36c02f590321501459306c86192f1c2f8d3d85f9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_seat.wav",
+    "sha256": "250ac1f596bf208c2f8204575cc3c67f1392c39ce403af809c19e1f4b64a910d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_meat.wav",
+    "sha256": "ead5d8eb2ec9cf94f115c2c0d78d3d3e0c38133b6fbd2fab328e51a518555af6",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_heat.wav",
+    "sha256": "a0785c8e4d1ce80a5619320e6d76a40b4ff3abf746193eb504b1ed4862c30095",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_beat.wav",
+    "sha256": "1947cc65d98c8582e9992e2dd3a865adb765615a3b28244b0c450833d2f96b70",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_neat.wav",
+    "sha256": "19b9fefeeec1fbe6d5e904ba7e698fa7462bc664b38f47eb68d03259e074d984",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_team.wav",
+    "sha256": "6a354e006bd36b205d541fcd5e8b590fb06dc5532f50117d633bf50ad862f520",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_beam.wav",
+    "sha256": "dad9ebf3939c5907d06e896d4d40f997c739bd55a05f103e0bce996ea07769c1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_seam.wav",
+    "sha256": "302163c7e116388391a4b17e80d688143d20f15dce2ca5ef347745c6a6e9a31b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_dream.wav",
+    "sha256": "64bccf93c7d4c89385cfd0c9c05a2fcb4d1325c60b870326fe22c9aba42d7b0a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_steam.wav",
+    "sha256": "92fc6b01832ebf29b414c4c6c5da3f3be84d84d7d54a119d7c6d6c1e9e47f365",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_eat.wav",
+    "sha256": "e0baad86355914b3531fddb158603d2c42aa187eaa1e68e930b2e9a75ed2e586",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_boat.wav",
+    "sha256": "a2f910556e4eb171e9c0b6e7d07ea71fefa24935558a4163ac83b4c3fa321011",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_coat.wav",
+    "sha256": "f948ed39253440748dd16a5c7417f5f65d96f75f253437e40ba706c36ce4f169",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_goat.wav",
+    "sha256": "885513fcbda2ca8064f874845fdfa4821f20af7c8c236286362509b51940bf10",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_moat.wav",
+    "sha256": "6c2f01e022a47b5263640f4e75b95f07e146c7c8b3440c22d8bc7e754ef39e51",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_road.wav",
+    "sha256": "46f0f44306b0cf689f34fba016f607af152593970cbbfbcc65538734a75e182d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_toad.wav",
+    "sha256": "ba505b2768ef651b6cd699c240a40e17c1613313b98e1d215649457cee95712c",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_load.wav",
+    "sha256": "177b3ded048aec74912b70ed9031d492458227513ba65dfcbb6524981e2a9e72",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_soap.wav",
+    "sha256": "8de9892c45dffed25b43962991d8ea803901759a896166599b09d3648d5b8eac",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_foam.wav",
+    "sha256": "715725e0d82aa19e72e7820011bbcf1ea9ef9176f7166808578c758899f866ce",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_roam.wav",
+    "sha256": "c7d6223675b5ff1c7391b454ebb46245bd591b4bde47cc337c7794c50fb86254",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_goal.wav",
+    "sha256": "b09dbc878a443fb992d6882f974b6de368a784500fe9bef05ad12752c13d33e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_coal.wav",
+    "sha256": "18022ce1cc5bfc12909838bbeb8997a8d82a026ef990884321897efd319bbef8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_loan.wav",
+    "sha256": "7a79ea8b9e29299331b9067772979062296497d4f84f72f19f3a38acbb590a52",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_loaf.wav",
+    "sha256": "283f540b74f94e7b4b8413d15a202c01795bafbcbbc84633ddb8ddfb645de47b",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_oak.wav",
+    "sha256": "3edbe1ce46a24fc11bec448cca1d225ddd578f10231062584a9af9bc1eafb847",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_row.wav",
+    "sha256": "a496c8bf67781b89cc793c76c9ca12865cc4230a0d0d23fccabaa5b5f4b6c651",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_low.wav",
+    "sha256": "55468a15904fe3b9fad1b26cc2dd6308bfaf28403a05d5550977dada0eabaa87",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_mow.wav",
+    "sha256": "55d809e4545d0927d29225a1f8490a6bcb8b4e911be7a3911d22eb02cccae2e3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_own.wav",
+    "sha256": "ef75fb8e8d2c5517fac593110abd8652b7c44c9c1a6b40d1c0f936e219f1e10d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/word_snow.wav",
+    "sha256": "72ead5520b2e02fcda5eafaff68d5d88eaa757d1e9e3ddf321c28dc98eaccbb9",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_a.wav",
+    "sha256": "95f76f36623bc061ddbef5d96b5ba8c719be3f6a3e76c9d0dc62433eb9d0dfd7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_b.wav",
+    "sha256": "d95a895c57f88ecc5e4eec9bad2cfaf9065de4a1121e1c2965e1c219f2cfcec8",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_c.wav",
+    "sha256": "bc448fb2fbfcd7ee415c0740d847f7077c9faeef63c0bbf02cc6ce761019b9d1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_d.wav",
+    "sha256": "33c1fb5eb52cb99b1424a38d75d634b1832b6f53c261dbd847fdc52c753597af",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_e.wav",
+    "sha256": "f5691fc66490319c0090ea90dddfd9844fb2efb32cb2178220bf02635f746802",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_f.wav",
+    "sha256": "dcbf4bcf98197ba8fbf13169f2abdc6e11da56ac0a9575cb9c9dec89602b40b0",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_g.wav",
+    "sha256": "05e9cd449d27a8889705fcfb6a07948e512dca51404253ae90ac8b0e8f51a0a1",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_h.wav",
+    "sha256": "e546c733df29fa10be391e23a6d38c9282edc368a8ad901a7ca7dad6f201cb46",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_i.wav",
+    "sha256": "58eca3b4e0ea86c560042cc9ed312eddd6b286d1c2984814a1554afa4dcf01fc",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_j.wav",
+    "sha256": "a9d927b4312ff8c3aa7201822c758b20062980e1c98c31dbf492317afbe75d09",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_k.wav",
+    "sha256": "5985532cec057b90c2e52508ce14bc15e460de86c29258b3c4959402c97799c4",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_l.wav",
+    "sha256": "feb6bfa3174619d508b2a0e1d2d6b2e889c99a8bfc7e3429fe9691e8d5f7d448",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_m.wav",
+    "sha256": "a5e288d2002727e59d2769b6e3ff8901f6a45bfb8204019d388eada434c5218e",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_n.wav",
+    "sha256": "71ebbe2a51ab32f9c94c51c1217e644db210e82b59bb716c4979b23bdc312438",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_o.wav",
+    "sha256": "2858fce37f5dd5b1dc37934867c11090cd2a7759aed83fb7b9b98ac02f4c6092",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_p.wav",
+    "sha256": "2eb626c3b90cf3e15322c811ae67f7fe8902c77b5c3014731663507a68e997ec",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_q.wav",
+    "sha256": "7185ef0fed11418649143551946c72398cf0a5213a83116d0c0293110d58e92a",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_r.wav",
+    "sha256": "8005e68c812d4575bf72980e9abf61f1c74641771b98dae9df2c0ca07357d846",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_s.wav",
+    "sha256": "214217b0b44c540f87812ca4e8b37bb06bba4c29f197ca65b8ed5a1e1112833f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_t.wav",
+    "sha256": "8e32a3e85ca2ad6e17209aafef3654fc5b8cf90f024dcca7fbd47ddba6e2a068",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_u.wav",
+    "sha256": "fd3b2888bc952192324849b76249e71cb1ff258914b696d4157278a9f20f3bbe",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_v.wav",
+    "sha256": "8956e2680848f53e31dc70d506fccad55c9d2084a23d36bb9345ed40d9105feb",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_w.wav",
+    "sha256": "26b7e106db5c3149c0d0b14db8fb7c2664f50dc970b2b23fb6881fafe331fe46",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_x.wav",
+    "sha256": "ea29633b100cee677d10891c4576aef14375281110f43f43e563bf8529823c43",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_y.wav",
+    "sha256": "72e41a05aff56b4ab68b8ee0893aaba313a121e41486e347a8c906cf01705ad3",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/name_z.wav",
+    "sha256": "05124b812ce3bdec9f47598b89add64f43c383f9ecb6fc26ab0748408b31e23d",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "en-us",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_listen.wav",
+    "sha256": "076eaade6dbc901af2524e3ad0db0290e4be8e091948b003a31cc4dcf5178d7f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_read.wav",
+    "sha256": "f7b6ede57729c814ca62e13f9c6ade63e5a67b910be22dd1b3a3e8705439df15",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_case.wav",
+    "sha256": "b97608df534aedecf7c1f27cb250ee35ec62879f3108f029c257414116a4856f",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_build.wav",
+    "sha256": "641c87ad6b5f2476708ff4c04c84f116bd2d4153f91534a728f289ba06d60938",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_mic.wav",
+    "sha256": "248238ed3709c3bb28f7a9e750f599e3de90925925b2099523ec1fe0f32cffd7",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  },
+  {
+    "path": "assets/audio/guide_welcome.wav",
+    "sha256": "fa9d59a13e6c99e1833478c634b5f8647bfae726d1a4d8f6312875f603d09dc5",
+    "source": "Original text, eSpeak NG 1.52.0 formant synthesis",
+    "voice": "ja",
+    "status": "draft-unreviewed",
+    "embedded_engine": false,
+    "commercial_and_redistribution": "Generated speech; no engine, voice binaries or sampled recordings included"
+  }
+]

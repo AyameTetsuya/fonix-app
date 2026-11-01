@@ -1,0 +1,5516 @@
+{
+  "schema": 1,
+  "status": "draft-unreviewed",
+  "sounds": [
+    {
+      "id": "s",
+      "label": "s",
+      "ipa": "s",
+      "hint": "したを はの うしろに。すきまから いきを だそう。",
+      "example": "sat",
+      "audio": "assets/audio/sound_s.wav",
+      "espeak": "s"
+    },
+    {
+      "id": "a",
+      "label": "a",
+      "ipa": "æ",
+      "hint": "くちを よこに ひらいて、あごを さげよう。",
+      "example": "cat",
+      "audio": "assets/audio/sound_a.wav",
+      "espeak": "a"
+    },
+    {
+      "id": "t",
+      "label": "t",
+      "ipa": "t",
+      "hint": "したを はの うしろに つけて、はなそう。",
+      "example": "tap",
+      "audio": "assets/audio/sound_t.wav",
+      "espeak": "t"
+    },
+    {
+      "id": "p",
+      "label": "p",
+      "ipa": "p",
+      "hint": "くちびるを とじて、いきを ぱっと だそう。",
+      "example": "pin",
+      "audio": "assets/audio/sound_p.wav",
+      "espeak": "p"
+    },
+    {
+      "id": "i",
+      "label": "i",
+      "ipa": "ɪ",
+      "hint": "くちを すこし ひらいて、みじかく こえを だそう。",
+      "example": "sit",
+      "audio": "assets/audio/sound_i.wav",
+      "espeak": "I"
+    },
+    {
+      "id": "n",
+      "label": "n",
+      "ipa": "n",
+      "hint": "したを うえの はの うしろに。はなへ こえを ぬこう。",
+      "example": "nap",
+      "audio": "assets/audio/sound_n.wav",
+      "espeak": "n"
+    },
+    {
+      "id": "m",
+      "label": "m",
+      "ipa": "m",
+      "hint": "くちびるを とじて、はなに こえを ひびかせよう。",
+      "example": "map",
+      "audio": "assets/audio/sound_m.wav",
+      "espeak": "m"
+    },
+    {
+      "id": "d",
+      "label": "d",
+      "ipa": "d",
+      "hint": "したを はの うしろに つけて、こえと いっしょに はなそう。",
+      "example": "dog",
+      "audio": "assets/audio/sound_d.wav",
+      "espeak": "d"
+    },
+    {
+      "id": "g",
+      "label": "g",
+      "ipa": "ɡ",
+      "hint": "したの おくを あげて、こえを だして はなそう。",
+      "example": "gap",
+      "audio": "assets/audio/sound_g.wav",
+      "espeak": "g"
+    },
+    {
+      "id": "o",
+      "label": "o",
+      "ipa": "ɑ",
+      "hint": "くちを ひらいて、したを ひくくしよう。",
+      "example": "pot",
+      "audio": "assets/audio/sound_o.wav",
+      "espeak": "A:"
+    },
+    {
+      "id": "c",
+      "label": "c",
+      "ipa": "k",
+      "hint": "この しまの c は、したの おくで いきを とめて はなすよ。",
+      "example": "cat",
+      "audio": "assets/audio/sound_c.wav",
+      "espeak": "k"
+    },
+    {
+      "id": "k",
+      "label": "k",
+      "ipa": "k",
+      "hint": "したの おくで いきを とめて、ぱっと はなそう。",
+      "example": "kit",
+      "audio": "assets/audio/sound_k.wav",
+      "espeak": "k"
+    },
+    {
+      "id": "e",
+      "label": "e",
+      "ipa": "ɛ",
+      "hint": "くちを すこし よこに ひらこう。",
+      "example": "bed",
+      "audio": "assets/audio/sound_e.wav",
+      "espeak": "E"
+    },
+    {
+      "id": "u",
+      "label": "u",
+      "ipa": "ʌ",
+      "hint": "くちも したも ちからを ぬいて、みじかく。",
+      "example": "cup",
+      "audio": "assets/audio/sound_u.wav",
+      "espeak": "V"
+    },
+    {
+      "id": "b",
+      "label": "b",
+      "ipa": "b",
+      "hint": "くちびるを とじて、こえと いっしょに はなそう。",
+      "example": "bat",
+      "audio": "assets/audio/sound_b.wav",
+      "espeak": "b"
+    },
+    {
+      "id": "h",
+      "label": "h",
+      "ipa": "h",
+      "hint": "くちを ひらいて、やさしく いきを だそう。",
+      "example": "hat",
+      "audio": "assets/audio/sound_h.wav",
+      "espeak": "h"
+    },
+    {
+      "id": "f",
+      "label": "f",
+      "ipa": "f",
+      "hint": "うえの はを したくちびるに そっと あてて、いきを だそう。",
+      "example": "fan",
+      "audio": "assets/audio/sound_f.wav",
+      "espeak": "f"
+    },
+    {
+      "id": "l",
+      "label": "l",
+      "ipa": "l",
+      "hint": "したの さきを うえの はの うしろに つけよう。",
+      "example": "leg",
+      "audio": "assets/audio/sound_l.wav",
+      "espeak": "l"
+    },
+    {
+      "id": "r",
+      "label": "r",
+      "ipa": "ɹ",
+      "hint": "したを くちの なかで もちあげるよ。うえに つけないでね。",
+      "example": "red",
+      "audio": "assets/audio/sound_r.wav",
+      "espeak": "r"
+    },
+    {
+      "id": "j",
+      "label": "j",
+      "ipa": "dʒ",
+      "hint": "したで いきを とめてから、こえを だして はなそう。",
+      "example": "jam",
+      "audio": "assets/audio/sound_j.wav",
+      "espeak": "dZ"
+    },
+    {
+      "id": "v",
+      "label": "v",
+      "ipa": "v",
+      "hint": "うえの はを したくちびるに。こえを ひびかせよう。",
+      "example": "van",
+      "audio": "assets/audio/sound_v.wav",
+      "espeak": "v"
+    },
+    {
+      "id": "w",
+      "label": "w",
+      "ipa": "w",
+      "hint": "くちびるを まるくして、つぎの おとへ うごかそう。",
+      "example": "wet",
+      "audio": "assets/audio/sound_w.wav",
+      "espeak": "w"
+    },
+    {
+      "id": "y",
+      "label": "y",
+      "ipa": "j",
+      "hint": "したを うえに ちかづけて、つぎの おとへ うごかそう。",
+      "example": "yes",
+      "audio": "assets/audio/sound_y.wav",
+      "espeak": "j"
+    },
+    {
+      "id": "z",
+      "label": "z",
+      "ipa": "z",
+      "hint": "s と おなじ くちで、こえを ひびかせよう。",
+      "example": "zip",
+      "audio": "assets/audio/sound_z.wav",
+      "espeak": "z"
+    },
+    {
+      "id": "x",
+      "label": "x",
+      "ipa": "ks",
+      "hint": "k と s の ふたつの おとを つなげよう。",
+      "example": "box",
+      "audio": "assets/audio/sound_x.wav",
+      "espeak": "ks"
+    },
+    {
+      "id": "qu",
+      "label": "qu",
+      "ipa": "kw",
+      "hint": "k と w の おとを つなげよう。",
+      "example": "quit",
+      "audio": "assets/audio/sound_qu.wav",
+      "espeak": "kw"
+    },
+    {
+      "id": "sh",
+      "label": "sh",
+      "ipa": "ʃ",
+      "hint": "くちびるを すこし まるく。いきを だそう。",
+      "example": "ship",
+      "audio": "assets/audio/sound_sh.wav",
+      "espeak": "S"
+    },
+    {
+      "id": "ch",
+      "label": "ch",
+      "ipa": "tʃ",
+      "hint": "いきを とめてから、くちびるを まるくして はなそう。",
+      "example": "chip",
+      "audio": "assets/audio/sound_ch.wav",
+      "espeak": "tS"
+    },
+    {
+      "id": "th",
+      "label": "th",
+      "ipa": "θ",
+      "hint": "したの さきを はの あいだに そっと。いきを だそう。",
+      "example": "thin",
+      "audio": "assets/audio/sound_th.wav",
+      "espeak": "T"
+    },
+    {
+      "id": "thv",
+      "label": "th",
+      "ipa": "ð",
+      "hint": "したの さきを はの あいだに。こえを ひびかせよう。",
+      "example": "this",
+      "audio": "assets/audio/sound_thv.wav",
+      "espeak": "D"
+    },
+    {
+      "id": "ng",
+      "label": "ng",
+      "ipa": "ŋ",
+      "hint": "したの おくを あげて、はなに こえを ひびかせよう。",
+      "example": "ring",
+      "audio": "assets/audio/sound_ng.wav",
+      "espeak": "N"
+    },
+    {
+      "id": "ck",
+      "label": "ck",
+      "ipa": "k",
+      "hint": "ふたつの もじで k の おと。さいごに みつけてね。",
+      "example": "duck",
+      "audio": "assets/audio/sound_ck.wav",
+      "espeak": "k"
+    },
+    {
+      "id": "st",
+      "label": "st",
+      "ipa": "st",
+      "hint": "s から t へ。あいだに べつの おとを いれず つなげよう。",
+      "example": "stop",
+      "audio": "assets/audio/sound_st.wav",
+      "espeak": "st"
+    },
+    {
+      "id": "sp",
+      "label": "sp",
+      "ipa": "sp",
+      "hint": "s から p へ、つづけて だしてみよう。",
+      "example": "spot",
+      "audio": "assets/audio/sound_sp.wav",
+      "espeak": "sp"
+    },
+    {
+      "id": "bl",
+      "label": "bl",
+      "ipa": "bl",
+      "hint": "b の あと、したを つけて l へ つなごう。",
+      "example": "black",
+      "audio": "assets/audio/sound_bl.wav",
+      "espeak": "bl"
+    },
+    {
+      "id": "pl",
+      "label": "pl",
+      "ipa": "pl",
+      "hint": "p の あと、したを つけて l へ つなごう。",
+      "example": "plan",
+      "audio": "assets/audio/sound_pl.wav",
+      "espeak": "pl"
+    },
+    {
+      "id": "nd",
+      "label": "nd",
+      "ipa": "nd",
+      "hint": "n の あとに d。さいごの おとまで いしきしよう。",
+      "example": "sand",
+      "audio": "assets/audio/sound_nd.wav",
+      "espeak": "nd"
+    },
+    {
+      "id": "nt",
+      "label": "nt",
+      "ipa": "nt",
+      "hint": "n の あとに t。お手本を よく きいてね。",
+      "example": "tent",
+      "audio": "assets/audio/sound_nt.wav",
+      "espeak": "nt"
+    },
+    {
+      "id": "a_e",
+      "label": "a_e",
+      "ipa": "eɪ",
+      "hint": "くちを ひらいた おとから、すこし とじる おとへ。",
+      "example": "cake",
+      "audio": "assets/audio/sound_a_e.wav",
+      "espeak": "eI"
+    },
+    {
+      "id": "i_e",
+      "label": "i_e",
+      "ipa": "aɪ",
+      "hint": "くちを ひらいてから、すこし とじていこう。",
+      "example": "kite",
+      "audio": "assets/audio/sound_i_e.wav",
+      "espeak": "aI"
+    },
+    {
+      "id": "o_e",
+      "label": "o_e",
+      "ipa": "oʊ",
+      "hint": "くちを すこし まるくして、うごかそう。",
+      "example": "home",
+      "audio": "assets/audio/sound_o_e.wav",
+      "espeak": "oU"
+    },
+    {
+      "id": "u_e",
+      "label": "u_e",
+      "ipa": "ju",
+      "hint": "cute の おと。くちを まるくしていくよ。tube では ちがう よみもあるよ。",
+      "example": "cute",
+      "audio": "assets/audio/sound_u_e.wav",
+      "espeak": "ju:"
+    },
+    {
+      "id": "ai",
+      "label": "ai",
+      "ipa": "eɪ",
+      "hint": "a_e と おなじ おと。こんどは ai の もじだよ。",
+      "example": "rain",
+      "audio": "assets/audio/sound_ai.wav",
+      "espeak": "eI"
+    },
+    {
+      "id": "ay",
+      "label": "ay",
+      "ipa": "eɪ",
+      "hint": "ことばの おわりで よく つかう おとだよ。",
+      "example": "day",
+      "audio": "assets/audio/sound_ay.wav",
+      "espeak": "eI"
+    },
+    {
+      "id": "ee",
+      "label": "ee",
+      "ipa": "i",
+      "hint": "くちを よこに ひらいて、したを うえに。",
+      "example": "see",
+      "audio": "assets/audio/sound_ee.wav",
+      "espeak": "i:"
+    },
+    {
+      "id": "ea",
+      "label": "ea",
+      "ipa": "i",
+      "hint": "この しまの ea は ee と おなじ おとだよ。",
+      "example": "sea",
+      "audio": "assets/audio/sound_ea.wav",
+      "espeak": "i:"
+    },
+    {
+      "id": "oa",
+      "label": "oa",
+      "ipa": "oʊ",
+      "hint": "o_e と おなじ おと。くちを うごかそう。",
+      "example": "boat",
+      "audio": "assets/audio/sound_oa.wav",
+      "espeak": "oU"
+    },
+    {
+      "id": "ow",
+      "label": "ow",
+      "ipa": "oʊ",
+      "hint": "この しまの ow は low の おと。cow は べつの よみだよ。",
+      "example": "low",
+      "audio": "assets/audio/sound_ow.wav",
+      "espeak": "oU"
+    },
+    {
+      "id": "review",
+      "label": "s",
+      "ipa": "s",
+      "hint": "したを はの うしろに。すきまから いきを だそう。",
+      "example": "sat",
+      "audio": "assets/audio/sound_s.wav",
+      "espeak": "s"
+    },
+    {
+      "id": "mix1",
+      "label": "a",
+      "ipa": "æ",
+      "hint": "くちを よこに ひらいて、あごを さげよう。",
+      "example": "cat",
+      "audio": "assets/audio/sound_a.wav",
+      "espeak": "a"
+    },
+    {
+      "id": "mix2",
+      "label": "t",
+      "ipa": "t",
+      "hint": "したを はの うしろに つけて、はなそう。",
+      "example": "tap",
+      "audio": "assets/audio/sound_t.wav",
+      "espeak": "t"
+    },
+    {
+      "id": "mix3",
+      "label": "p",
+      "ipa": "p",
+      "hint": "くちびるを とじて、いきを ぱっと だそう。",
+      "example": "pin",
+      "audio": "assets/audio/sound_p.wav",
+      "espeak": "p"
+    },
+    {
+      "id": "mix4",
+      "label": "i",
+      "ipa": "ɪ",
+      "hint": "くちを すこし ひらいて、みじかく こえを だそう。",
+      "example": "sit",
+      "audio": "assets/audio/sound_i.wav",
+      "espeak": "I"
+    },
+    {
+      "id": "mix5",
+      "label": "n",
+      "ipa": "n",
+      "hint": "したを うえの はの うしろに。はなへ こえを ぬこう。",
+      "example": "nap",
+      "audio": "assets/audio/sound_n.wav",
+      "espeak": "n"
+    },
+    {
+      "id": "mix6",
+      "label": "m",
+      "ipa": "m",
+      "hint": "くちびるを とじて、はなに こえを ひびかせよう。",
+      "example": "map",
+      "audio": "assets/audio/sound_m.wav",
+      "espeak": "m"
+    },
+    {
+      "id": "mix7",
+      "label": "d",
+      "ipa": "d",
+      "hint": "したを はの うしろに つけて、こえと いっしょに はなそう。",
+      "example": "dog",
+      "audio": "assets/audio/sound_d.wav",
+      "espeak": "d"
+    },
+    {
+      "id": "mix8",
+      "label": "g",
+      "ipa": "ɡ",
+      "hint": "したの おくを あげて、こえを だして はなそう。",
+      "example": "gap",
+      "audio": "assets/audio/sound_g.wav",
+      "espeak": "g"
+    },
+    {
+      "id": "mix9",
+      "label": "o",
+      "ipa": "ɑ",
+      "hint": "くちを ひらいて、したを ひくくしよう。",
+      "example": "pot",
+      "audio": "assets/audio/sound_o.wav",
+      "espeak": "A:"
+    },
+    {
+      "id": "mix10",
+      "label": "c",
+      "ipa": "k",
+      "hint": "この しまの c は、したの おくで いきを とめて はなすよ。",
+      "example": "cat",
+      "audio": "assets/audio/sound_c.wav",
+      "espeak": "k"
+    },
+    {
+      "id": "mix11",
+      "label": "k",
+      "ipa": "k",
+      "hint": "したの おくで いきを とめて、ぱっと はなそう。",
+      "example": "kit",
+      "audio": "assets/audio/sound_k.wav",
+      "espeak": "k"
+    }
+  ],
+  "words": [
+    {
+      "text": "sat",
+      "ipa": "sæt",
+      "meaning": "すわった",
+      "skills": [
+        "s",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pat",
+      "ipa": "pæt",
+      "meaning": "やさしく たたく",
+      "skills": [
+        "p",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tap",
+      "ipa": "tæp",
+      "meaning": "かるく たたく",
+      "skills": [
+        "t",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sit",
+      "ipa": "sɪt",
+      "meaning": "すわる",
+      "skills": [
+        "s",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pin",
+      "ipa": "pɪn",
+      "meaning": "ピン",
+      "skills": [
+        "p",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tin",
+      "ipa": "tɪn",
+      "meaning": "かん",
+      "skills": [
+        "t",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tan",
+      "ipa": "tæn",
+      "meaning": "うすい ちゃいろ",
+      "skills": [
+        "t",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pan",
+      "ipa": "pæn",
+      "meaning": "フライパン",
+      "skills": [
+        "p",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nap",
+      "ipa": "næp",
+      "meaning": "ひるね",
+      "skills": [
+        "n",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pit",
+      "ipa": "pɪt",
+      "meaning": "あな",
+      "skills": [
+        "p",
+        "i",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "tip",
+      "ipa": "tɪp",
+      "meaning": "さき",
+      "skills": [
+        "t",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sap",
+      "ipa": "sæp",
+      "meaning": "きの しる",
+      "skills": [
+        "s",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nip",
+      "ipa": "nɪp",
+      "meaning": "かるく かむ",
+      "skills": [
+        "n",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mat",
+      "ipa": "mæt",
+      "meaning": "マット",
+      "skills": [
+        "m",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "man",
+      "ipa": "mæn",
+      "meaning": "おとこのひと",
+      "skills": [
+        "m",
+        "a",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "map",
+      "ipa": "mæp",
+      "meaning": "ちず",
+      "skills": [
+        "m",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mop",
+      "ipa": "mɑp",
+      "meaning": "モップ",
+      "skills": [
+        "m",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mom",
+      "ipa": "mɑm",
+      "meaning": "おかあさん",
+      "skills": [
+        "m",
+        "o",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mad",
+      "ipa": "mæd",
+      "meaning": "おこった",
+      "skills": [
+        "m",
+        "a",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dim",
+      "ipa": "dɪm",
+      "meaning": "うすぐらい",
+      "skills": [
+        "d",
+        "i",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "dam",
+      "ipa": "dæm",
+      "meaning": "ダム",
+      "skills": [
+        "d",
+        "a",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dip",
+      "ipa": "dɪp",
+      "meaning": "すこし つける",
+      "skills": [
+        "d",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dig",
+      "ipa": "dɪɡ",
+      "meaning": "ほる",
+      "skills": [
+        "d",
+        "i",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dot",
+      "ipa": "dɑt",
+      "meaning": "てん",
+      "skills": [
+        "d",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dog",
+      "ipa": "dɑɡ",
+      "meaning": "いぬ",
+      "skills": [
+        "d",
+        "o",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "got",
+      "ipa": "ɡɑt",
+      "meaning": "てにいれた",
+      "skills": [
+        "g",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tag",
+      "ipa": "tæɡ",
+      "meaning": "ふだ",
+      "skills": [
+        "t",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nag",
+      "ipa": "næɡ",
+      "meaning": "くりかえし いう",
+      "skills": [
+        "n",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "gap",
+      "ipa": "ɡæp",
+      "meaning": "すきま",
+      "skills": [
+        "g",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "gas",
+      "ipa": "ɡæs",
+      "meaning": "ガス",
+      "skills": [
+        "g",
+        "a",
+        "s"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "cog",
+      "ipa": "kɑɡ",
+      "meaning": "はぐるま",
+      "skills": [
+        "c",
+        "o",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cod",
+      "ipa": "kɑd",
+      "meaning": "たら",
+      "skills": [
+        "c",
+        "o",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cot",
+      "ipa": "kɑt",
+      "meaning": "ちいさな ベッド",
+      "skills": [
+        "c",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cop",
+      "ipa": "kɑp",
+      "meaning": "おまわりさん",
+      "skills": [
+        "c",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cap",
+      "ipa": "kæp",
+      "meaning": "ぼうし",
+      "skills": [
+        "c",
+        "a",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "can",
+      "ipa": "kæn",
+      "meaning": "かん",
+      "skills": [
+        "c",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cat",
+      "ipa": "kæt",
+      "meaning": "ねこ",
+      "skills": [
+        "c",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "kid",
+      "ipa": "kɪd",
+      "meaning": "こども",
+      "skills": [
+        "k",
+        "i",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "kit",
+      "ipa": "kɪt",
+      "meaning": "どうぐの セット",
+      "skills": [
+        "k",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pig",
+      "ipa": "pɪɡ",
+      "meaning": "ぶた",
+      "skills": [
+        "p",
+        "i",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "pot",
+      "ipa": "pɑt",
+      "meaning": "なべ",
+      "skills": [
+        "p",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pop",
+      "ipa": "pɑp",
+      "meaning": "ぽんと はじける",
+      "skills": [
+        "p",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "top",
+      "ipa": "tɑp",
+      "meaning": "いちばん うえ",
+      "skills": [
+        "t",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "not",
+      "ipa": "nɑt",
+      "meaning": "ちがう",
+      "skills": [
+        "n",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nod",
+      "ipa": "nɑd",
+      "meaning": "うなずく",
+      "skills": [
+        "n",
+        "o",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "bed",
+      "ipa": "bɛd",
+      "meaning": "ベッド",
+      "skills": [
+        "b",
+        "e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "beg",
+      "ipa": "bɛɡ",
+      "meaning": "おねがいする",
+      "skills": [
+        "b",
+        "e",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bet",
+      "ipa": "bɛt",
+      "meaning": "かける",
+      "skills": [
+        "b",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bit",
+      "ipa": "bɪt",
+      "meaning": "すこし",
+      "skills": [
+        "b",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bin",
+      "ipa": "bɪn",
+      "meaning": "いれもの",
+      "skills": [
+        "b",
+        "i",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "big",
+      "ipa": "bɪɡ",
+      "meaning": "おおきい",
+      "skills": [
+        "b",
+        "i",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bat",
+      "ipa": "bæt",
+      "meaning": "こうもり",
+      "skills": [
+        "b",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bag",
+      "ipa": "bæɡ",
+      "meaning": "かばん",
+      "skills": [
+        "b",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bun",
+      "ipa": "bʌn",
+      "meaning": "まるい パン",
+      "skills": [
+        "b",
+        "u",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bus",
+      "ipa": "bʌs",
+      "meaning": "バス",
+      "skills": [
+        "b",
+        "u",
+        "s"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "bug",
+      "ipa": "bʌɡ",
+      "meaning": "むし",
+      "skills": [
+        "b",
+        "u",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bud",
+      "ipa": "bʌd",
+      "meaning": "つぼみ",
+      "skills": [
+        "b",
+        "u",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "but",
+      "ipa": "bʌt",
+      "meaning": "でも",
+      "skills": [
+        "b",
+        "u",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cut",
+      "ipa": "kʌt",
+      "meaning": "きる",
+      "skills": [
+        "c",
+        "u",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cup",
+      "ipa": "kʌp",
+      "meaning": "カップ",
+      "skills": [
+        "c",
+        "u",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cub",
+      "ipa": "kʌb",
+      "meaning": "どうぶつの こども",
+      "skills": [
+        "c",
+        "u",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dad",
+      "ipa": "dæd",
+      "meaning": "おとうさん",
+      "skills": [
+        "d",
+        "a",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "den",
+      "ipa": "dɛn",
+      "meaning": "すみか",
+      "skills": [
+        "d",
+        "e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dug",
+      "ipa": "dʌɡ",
+      "meaning": "ほった",
+      "skills": [
+        "d",
+        "u",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fed",
+      "ipa": "fɛd",
+      "meaning": "たべさせた",
+      "skills": [
+        "f",
+        "e",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "fit",
+      "ipa": "fɪt",
+      "meaning": "ぴったり あう",
+      "skills": [
+        "f",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fin",
+      "ipa": "fɪn",
+      "meaning": "ひれ",
+      "skills": [
+        "f",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fat",
+      "ipa": "fæt",
+      "meaning": "あぶら",
+      "skills": [
+        "f",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fan",
+      "ipa": "fæn",
+      "meaning": "せんぷうき",
+      "skills": [
+        "f",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fog",
+      "ipa": "fɑɡ",
+      "meaning": "きり",
+      "skills": [
+        "f",
+        "o",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "fun",
+      "ipa": "fʌn",
+      "meaning": "たのしい",
+      "skills": [
+        "f",
+        "u",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fig",
+      "ipa": "fɪɡ",
+      "meaning": "いちじく",
+      "skills": [
+        "f",
+        "i",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "leg",
+      "ipa": "lɛɡ",
+      "meaning": "あし",
+      "skills": [
+        "l",
+        "e",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "let",
+      "ipa": "lɛt",
+      "meaning": "させる",
+      "skills": [
+        "l",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lit",
+      "ipa": "lɪt",
+      "meaning": "あかりが ついた",
+      "skills": [
+        "l",
+        "i",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "log",
+      "ipa": "lɑɡ",
+      "meaning": "まるた",
+      "skills": [
+        "l",
+        "o",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lot",
+      "ipa": "lɑt",
+      "meaning": "たくさん",
+      "skills": [
+        "l",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lap",
+      "ipa": "læp",
+      "meaning": "ひざ",
+      "skills": [
+        "l",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lip",
+      "ipa": "lɪp",
+      "meaning": "くちびる",
+      "skills": [
+        "l",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lid",
+      "ipa": "lɪd",
+      "meaning": "ふた",
+      "skills": [
+        "l",
+        "i",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "lad",
+      "ipa": "læd",
+      "meaning": "おとこのこ",
+      "skills": [
+        "l",
+        "a",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lug",
+      "ipa": "lʌɡ",
+      "meaning": "おもいものを はこぶ",
+      "skills": [
+        "l",
+        "u",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "gum",
+      "ipa": "ɡʌm",
+      "meaning": "ガム",
+      "skills": [
+        "g",
+        "u",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hat",
+      "ipa": "hæt",
+      "meaning": "ぼうし",
+      "skills": [
+        "h",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hen",
+      "ipa": "hɛn",
+      "meaning": "めんどり",
+      "skills": [
+        "h",
+        "e",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "hop",
+      "ipa": "hɑp",
+      "meaning": "ぴょんと とぶ",
+      "skills": [
+        "h",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hot",
+      "ipa": "hɑt",
+      "meaning": "あつい",
+      "skills": [
+        "h",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hut",
+      "ipa": "hʌt",
+      "meaning": "こや",
+      "skills": [
+        "h",
+        "u",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "red",
+      "ipa": "ɹɛd",
+      "meaning": "あか",
+      "skills": [
+        "r",
+        "e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rid",
+      "ipa": "ɹɪd",
+      "meaning": "とりのぞく",
+      "skills": [
+        "r",
+        "i",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "rag",
+      "ipa": "ɹæɡ",
+      "meaning": "ぬの",
+      "skills": [
+        "r",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rat",
+      "ipa": "ɹæt",
+      "meaning": "ねずみ",
+      "skills": [
+        "r",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ram",
+      "ipa": "ɹæm",
+      "meaning": "おすの ひつじ",
+      "skills": [
+        "r",
+        "a",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rim",
+      "ipa": "ɹɪm",
+      "meaning": "ふち",
+      "skills": [
+        "r",
+        "i",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rip",
+      "ipa": "ɹɪp",
+      "meaning": "やぶる",
+      "skills": [
+        "r",
+        "i",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "run",
+      "ipa": "ɹʌn",
+      "meaning": "はしる",
+      "skills": [
+        "r",
+        "u",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rug",
+      "ipa": "ɹʌɡ",
+      "meaning": "じゅうたん",
+      "skills": [
+        "r",
+        "u",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rub",
+      "ipa": "ɹʌb",
+      "meaning": "こする",
+      "skills": [
+        "r",
+        "u",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rib",
+      "ipa": "ɹɪb",
+      "meaning": "あばらぼね",
+      "skills": [
+        "r",
+        "i",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rob",
+      "ipa": "ɹɑb",
+      "meaning": "うばう",
+      "skills": [
+        "r",
+        "o",
+        "b"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "jam",
+      "ipa": "dʒæm",
+      "meaning": "ジャム",
+      "skills": [
+        "j",
+        "a",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "jet",
+      "ipa": "dʒɛt",
+      "meaning": "ジェットき",
+      "skills": [
+        "j",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "jig",
+      "ipa": "dʒɪɡ",
+      "meaning": "かるい ダンス",
+      "skills": [
+        "j",
+        "i",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "jog",
+      "ipa": "dʒɑɡ",
+      "meaning": "ゆっくり はしる",
+      "skills": [
+        "j",
+        "o",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "jug",
+      "ipa": "dʒʌɡ",
+      "meaning": "みずさし",
+      "skills": [
+        "j",
+        "u",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "job",
+      "ipa": "dʒɑb",
+      "meaning": "しごと",
+      "skills": [
+        "j",
+        "o",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "van",
+      "ipa": "væn",
+      "meaning": "ワゴンしゃ",
+      "skills": [
+        "v",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "vet",
+      "ipa": "vɛt",
+      "meaning": "どうぶつの おいしゃさん",
+      "skills": [
+        "v",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "vat",
+      "ipa": "væt",
+      "meaning": "おおきな おけ",
+      "skills": [
+        "v",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wag",
+      "ipa": "wæɡ",
+      "meaning": "しっぽを ふる",
+      "skills": [
+        "w",
+        "a",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "web",
+      "ipa": "wɛb",
+      "meaning": "くもの す",
+      "skills": [
+        "w",
+        "e",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wet",
+      "ipa": "wɛt",
+      "meaning": "ぬれた",
+      "skills": [
+        "w",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wig",
+      "ipa": "wɪɡ",
+      "meaning": "かつら",
+      "skills": [
+        "w",
+        "i",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "win",
+      "ipa": "wɪn",
+      "meaning": "かつ",
+      "skills": [
+        "w",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wit",
+      "ipa": "wɪt",
+      "meaning": "きの きく こと",
+      "skills": [
+        "w",
+        "i",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "yak",
+      "ipa": "jæk",
+      "meaning": "ヤク",
+      "skills": [
+        "y",
+        "a",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "yam",
+      "ipa": "jæm",
+      "meaning": "いもの なかま",
+      "skills": [
+        "y",
+        "a",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "yap",
+      "ipa": "jæp",
+      "meaning": "いぬが ほえる",
+      "skills": [
+        "y",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "yet",
+      "ipa": "jɛt",
+      "meaning": "まだ",
+      "skills": [
+        "y",
+        "e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "yes",
+      "ipa": "jɛs",
+      "meaning": "はい",
+      "skills": [
+        "y",
+        "e",
+        "s"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "zip",
+      "ipa": "zɪp",
+      "meaning": "ファスナーを しめる",
+      "skills": [
+        "z",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "zap",
+      "ipa": "zæp",
+      "meaning": "すばやく うごく",
+      "skills": [
+        "z",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "box",
+      "ipa": "bɑks",
+      "meaning": "はこ",
+      "skills": [
+        "b",
+        "o",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fox",
+      "ipa": "fɑks",
+      "meaning": "きつね",
+      "skills": [
+        "f",
+        "o",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "six",
+      "ipa": "sɪks",
+      "meaning": "ろく",
+      "skills": [
+        "s",
+        "i",
+        "x"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "fix",
+      "ipa": "fɪks",
+      "meaning": "なおす",
+      "skills": [
+        "f",
+        "i",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mix",
+      "ipa": "mɪks",
+      "meaning": "まぜる",
+      "skills": [
+        "m",
+        "i",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wax",
+      "ipa": "wæks",
+      "meaning": "ろう",
+      "skills": [
+        "w",
+        "a",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tax",
+      "ipa": "tæks",
+      "meaning": "ぜいきん",
+      "skills": [
+        "t",
+        "a",
+        "x"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "quit",
+      "ipa": "kwɪt",
+      "meaning": "やめる",
+      "skills": [
+        "qu",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "quiz",
+      "ipa": "kwɪz",
+      "meaning": "クイズ",
+      "skills": [
+        "qu",
+        "i",
+        "z"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "quip",
+      "ipa": "kwɪp",
+      "meaning": "きのきいた ことば",
+      "skills": [
+        "qu",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ship",
+      "ipa": "ʃɪp",
+      "meaning": "ふね",
+      "skills": [
+        "sh",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "shop",
+      "ipa": "ʃɑp",
+      "meaning": "おみせ",
+      "skills": [
+        "sh",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "shin",
+      "ipa": "ʃɪn",
+      "meaning": "すね",
+      "skills": [
+        "sh",
+        "i",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "shot",
+      "ipa": "ʃɑt",
+      "meaning": "なげた たま",
+      "skills": [
+        "sh",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "shut",
+      "ipa": "ʃʌt",
+      "meaning": "しめる",
+      "skills": [
+        "sh",
+        "u",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fish",
+      "ipa": "fɪʃ",
+      "meaning": "さかな",
+      "skills": [
+        "f",
+        "i",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wish",
+      "ipa": "wɪʃ",
+      "meaning": "ねがう",
+      "skills": [
+        "w",
+        "i",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dish",
+      "ipa": "dɪʃ",
+      "meaning": "おさら",
+      "skills": [
+        "d",
+        "i",
+        "sh"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "cash",
+      "ipa": "kæʃ",
+      "meaning": "おかね",
+      "skills": [
+        "c",
+        "a",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mash",
+      "ipa": "mæʃ",
+      "meaning": "つぶす",
+      "skills": [
+        "m",
+        "a",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rush",
+      "ipa": "ɹʌʃ",
+      "meaning": "いそぐ",
+      "skills": [
+        "r",
+        "u",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hush",
+      "ipa": "hʌʃ",
+      "meaning": "しずかにする",
+      "skills": [
+        "h",
+        "u",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rash",
+      "ipa": "ɹæʃ",
+      "meaning": "はっしん",
+      "skills": [
+        "r",
+        "a",
+        "sh"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "lush",
+      "ipa": "lʌʃ",
+      "meaning": "みどりが ゆたか",
+      "skills": [
+        "l",
+        "u",
+        "sh"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "chin",
+      "ipa": "tʃɪn",
+      "meaning": "あご",
+      "skills": [
+        "ch",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "chip",
+      "ipa": "tʃɪp",
+      "meaning": "ちいさな かけら",
+      "skills": [
+        "ch",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "chop",
+      "ipa": "tʃɑp",
+      "meaning": "きざむ",
+      "skills": [
+        "ch",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "chat",
+      "ipa": "tʃæt",
+      "meaning": "おしゃべり",
+      "skills": [
+        "ch",
+        "a",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "much",
+      "ipa": "mʌtʃ",
+      "meaning": "たくさん",
+      "skills": [
+        "m",
+        "u",
+        "ch"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "such",
+      "ipa": "sʌtʃ",
+      "meaning": "そのような",
+      "skills": [
+        "s",
+        "u",
+        "ch"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rich",
+      "ipa": "ɹɪtʃ",
+      "meaning": "ゆたかな",
+      "skills": [
+        "r",
+        "i",
+        "ch"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "thin",
+      "ipa": "θɪn",
+      "meaning": "うすい",
+      "skills": [
+        "th",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "thud",
+      "ipa": "θʌd",
+      "meaning": "どすん という おと",
+      "skills": [
+        "th",
+        "u",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "moth",
+      "ipa": "mɑθ",
+      "meaning": "が",
+      "skills": [
+        "m",
+        "o",
+        "th"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "math",
+      "ipa": "mæθ",
+      "meaning": "さんすう",
+      "skills": [
+        "m",
+        "a",
+        "th"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bath",
+      "ipa": "bæθ",
+      "meaning": "おふろ",
+      "skills": [
+        "b",
+        "a",
+        "th"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "path",
+      "ipa": "pæθ",
+      "meaning": "こみち",
+      "skills": [
+        "p",
+        "a",
+        "th"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "this",
+      "ipa": "ðɪs",
+      "meaning": "これ",
+      "skills": [
+        "thv",
+        "i",
+        "s"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "that",
+      "ipa": "ðæt",
+      "meaning": "あれ",
+      "skills": [
+        "thv",
+        "a",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "them",
+      "ipa": "ðɛm",
+      "meaning": "かれらを",
+      "skills": [
+        "thv",
+        "e",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "then",
+      "ipa": "ðɛn",
+      "meaning": "そのとき",
+      "skills": [
+        "thv",
+        "e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "than",
+      "ipa": "ðæn",
+      "meaning": "よりも",
+      "skills": [
+        "thv",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sing",
+      "ipa": "sɪŋ",
+      "meaning": "うたう",
+      "skills": [
+        "s",
+        "i",
+        "ng"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "song",
+      "ipa": "sɑŋ",
+      "meaning": "うた",
+      "skills": [
+        "s",
+        "o",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sang",
+      "ipa": "sæŋ",
+      "meaning": "うたった",
+      "skills": [
+        "s",
+        "a",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ring",
+      "ipa": "ɹɪŋ",
+      "meaning": "ゆびわ",
+      "skills": [
+        "r",
+        "i",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rang",
+      "ipa": "ɹæŋ",
+      "meaning": "なった",
+      "skills": [
+        "r",
+        "a",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "king",
+      "ipa": "kɪŋ",
+      "meaning": "おうさま",
+      "skills": [
+        "k",
+        "i",
+        "ng"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "wing",
+      "ipa": "wɪŋ",
+      "meaning": "つばさ",
+      "skills": [
+        "w",
+        "i",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bang",
+      "ipa": "bæŋ",
+      "meaning": "ばん という おと",
+      "skills": [
+        "b",
+        "a",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hang",
+      "ipa": "hæŋ",
+      "meaning": "つるす",
+      "skills": [
+        "h",
+        "a",
+        "ng"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "neck",
+      "ipa": "nɛk",
+      "meaning": "くび",
+      "skills": [
+        "n",
+        "e",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "peck",
+      "ipa": "pɛk",
+      "meaning": "くちばしで つつく",
+      "skills": [
+        "p",
+        "e",
+        "ck"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "pick",
+      "ipa": "pɪk",
+      "meaning": "えらぶ",
+      "skills": [
+        "p",
+        "i",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pack",
+      "ipa": "pæk",
+      "meaning": "にもつを つめる",
+      "skills": [
+        "p",
+        "a",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sack",
+      "ipa": "sæk",
+      "meaning": "ふくろ",
+      "skills": [
+        "s",
+        "a",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sick",
+      "ipa": "sɪk",
+      "meaning": "ぐあいが わるい",
+      "skills": [
+        "s",
+        "i",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sock",
+      "ipa": "sɑk",
+      "meaning": "くつした",
+      "skills": [
+        "s",
+        "o",
+        "ck"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "rock",
+      "ipa": "ɹɑk",
+      "meaning": "いわ",
+      "skills": [
+        "r",
+        "o",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rack",
+      "ipa": "ɹæk",
+      "meaning": "たな",
+      "skills": [
+        "r",
+        "a",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "duck",
+      "ipa": "dʌk",
+      "meaning": "あひる",
+      "skills": [
+        "d",
+        "u",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "luck",
+      "ipa": "lʌk",
+      "meaning": "こううん",
+      "skills": [
+        "l",
+        "u",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lock",
+      "ipa": "lɑk",
+      "meaning": "かぎ",
+      "skills": [
+        "l",
+        "o",
+        "ck"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "kick",
+      "ipa": "kɪk",
+      "meaning": "ける",
+      "skills": [
+        "k",
+        "i",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "back",
+      "ipa": "bæk",
+      "meaning": "うしろ",
+      "skills": [
+        "b",
+        "a",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "quick",
+      "ipa": "kwɪk",
+      "meaning": "はやい",
+      "skills": [
+        "qu",
+        "i",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "stop",
+      "ipa": "stɑp",
+      "meaning": "とまる",
+      "skills": [
+        "s",
+        "t",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "step",
+      "ipa": "stɛp",
+      "meaning": "いっぽ",
+      "skills": [
+        "s",
+        "t",
+        "e",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "spot",
+      "ipa": "spɑt",
+      "meaning": "てん",
+      "skills": [
+        "s",
+        "p",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "spin",
+      "ipa": "spɪn",
+      "meaning": "まわる",
+      "skills": [
+        "s",
+        "p",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "spit",
+      "ipa": "spɪt",
+      "meaning": "はきだす",
+      "skills": [
+        "s",
+        "p",
+        "i",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "snap",
+      "ipa": "snæp",
+      "meaning": "ぱちんと ならす",
+      "skills": [
+        "s",
+        "n",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "snip",
+      "ipa": "snɪp",
+      "meaning": "ちょきんと きる",
+      "skills": [
+        "s",
+        "n",
+        "i",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "slim",
+      "ipa": "slɪm",
+      "meaning": "ほそい",
+      "skills": [
+        "s",
+        "l",
+        "i",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "slip",
+      "ipa": "slɪp",
+      "meaning": "すべる",
+      "skills": [
+        "s",
+        "l",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "slot",
+      "ipa": "slɑt",
+      "meaning": "ほそい あな",
+      "skills": [
+        "s",
+        "l",
+        "o",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "slam",
+      "ipa": "slæm",
+      "meaning": "ばたんと しめる",
+      "skills": [
+        "s",
+        "l",
+        "a",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "flat",
+      "ipa": "flæt",
+      "meaning": "たいら",
+      "skills": [
+        "f",
+        "l",
+        "a",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "flag",
+      "ipa": "flæɡ",
+      "meaning": "はた",
+      "skills": [
+        "f",
+        "l",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "flop",
+      "ipa": "flɑp",
+      "meaning": "ばたっと たおれる",
+      "skills": [
+        "f",
+        "l",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "flip",
+      "ipa": "flɪp",
+      "meaning": "ひっくりかえす",
+      "skills": [
+        "f",
+        "l",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "plan",
+      "ipa": "plæn",
+      "meaning": "けいかく",
+      "skills": [
+        "p",
+        "l",
+        "a",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "plug",
+      "ipa": "plʌɡ",
+      "meaning": "せん",
+      "skills": [
+        "p",
+        "l",
+        "u",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "plum",
+      "ipa": "plʌm",
+      "meaning": "すもも",
+      "skills": [
+        "p",
+        "l",
+        "u",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "clap",
+      "ipa": "klæp",
+      "meaning": "はくしゅ",
+      "skills": [
+        "c",
+        "l",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "clip",
+      "ipa": "klɪp",
+      "meaning": "クリップ",
+      "skills": [
+        "c",
+        "l",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "club",
+      "ipa": "klʌb",
+      "meaning": "クラブ",
+      "skills": [
+        "c",
+        "l",
+        "u",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "crab",
+      "ipa": "kɹæb",
+      "meaning": "かに",
+      "skills": [
+        "c",
+        "r",
+        "a",
+        "b"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "grab",
+      "ipa": "ɡɹæb",
+      "meaning": "つかむ",
+      "skills": [
+        "g",
+        "r",
+        "a",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "drip",
+      "ipa": "dɹɪp",
+      "meaning": "しずくが おちる",
+      "skills": [
+        "d",
+        "r",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "drop",
+      "ipa": "dɹɑp",
+      "meaning": "おとす",
+      "skills": [
+        "d",
+        "r",
+        "o",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "drag",
+      "ipa": "dɹæɡ",
+      "meaning": "ひきずる",
+      "skills": [
+        "d",
+        "r",
+        "a",
+        "g"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "frog",
+      "ipa": "fɹɑɡ",
+      "meaning": "かえる",
+      "skills": [
+        "f",
+        "r",
+        "o",
+        "g"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "grin",
+      "ipa": "ɡɹɪn",
+      "meaning": "にっこり わらう",
+      "skills": [
+        "g",
+        "r",
+        "i",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "grip",
+      "ipa": "ɡɹɪp",
+      "meaning": "にぎる",
+      "skills": [
+        "g",
+        "r",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "trip",
+      "ipa": "tɹɪp",
+      "meaning": "たび",
+      "skills": [
+        "t",
+        "r",
+        "i",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "trap",
+      "ipa": "tɹæp",
+      "meaning": "わな",
+      "skills": [
+        "t",
+        "r",
+        "a",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "trim",
+      "ipa": "tɹɪm",
+      "meaning": "きりそろえる",
+      "skills": [
+        "t",
+        "r",
+        "i",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "tent",
+      "ipa": "tɛnt",
+      "meaning": "テント",
+      "skills": [
+        "t",
+        "e",
+        "n",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "bent",
+      "ipa": "bɛnt",
+      "meaning": "まがった",
+      "skills": [
+        "b",
+        "e",
+        "n",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "sent",
+      "ipa": "sɛnt",
+      "meaning": "おくった",
+      "skills": [
+        "s",
+        "e",
+        "n",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "went",
+      "ipa": "wɛnt",
+      "meaning": "いった",
+      "skills": [
+        "w",
+        "e",
+        "n",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "sand",
+      "ipa": "sænd",
+      "meaning": "すな",
+      "skills": [
+        "s",
+        "a",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "hand",
+      "ipa": "hænd",
+      "meaning": "て",
+      "skills": [
+        "h",
+        "a",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "land",
+      "ipa": "lænd",
+      "meaning": "りく",
+      "skills": [
+        "l",
+        "a",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "pond",
+      "ipa": "pɑnd",
+      "meaning": "いけ",
+      "skills": [
+        "p",
+        "o",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "end",
+      "ipa": "ɛnd",
+      "meaning": "おわり",
+      "skills": [
+        "e",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "bend",
+      "ipa": "bɛnd",
+      "meaning": "まげる",
+      "skills": [
+        "b",
+        "e",
+        "n",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "band",
+      "ipa": "bænd",
+      "meaning": "バンド",
+      "skills": [
+        "b",
+        "a",
+        "n",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "lamp",
+      "ipa": "læmp",
+      "meaning": "ランプ",
+      "skills": [
+        "l",
+        "a",
+        "m",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "jump",
+      "ipa": "dʒʌmp",
+      "meaning": "ジャンプ",
+      "skills": [
+        "j",
+        "u",
+        "m",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "bump",
+      "ipa": "bʌmp",
+      "meaning": "こぶ",
+      "skills": [
+        "b",
+        "u",
+        "m",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "pump",
+      "ipa": "pʌmp",
+      "meaning": "ポンプ",
+      "skills": [
+        "p",
+        "u",
+        "m",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "limp",
+      "ipa": "lɪmp",
+      "meaning": "あしを ひきずる",
+      "skills": [
+        "l",
+        "i",
+        "m",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "black",
+      "ipa": "blæk",
+      "meaning": "くろ",
+      "skills": [
+        "b",
+        "l",
+        "a",
+        "ck"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "cake",
+      "ipa": "keɪk",
+      "meaning": "ケーキ",
+      "skills": [
+        "c",
+        "a_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cape",
+      "ipa": "keɪp",
+      "meaning": "マント",
+      "skills": [
+        "c",
+        "a_e",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cane",
+      "ipa": "keɪn",
+      "meaning": "つえ",
+      "skills": [
+        "c",
+        "a_e",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "tape",
+      "ipa": "teɪp",
+      "meaning": "テープ",
+      "skills": [
+        "t",
+        "a_e",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lake",
+      "ipa": "leɪk",
+      "meaning": "みずうみ",
+      "skills": [
+        "l",
+        "a_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "late",
+      "ipa": "leɪt",
+      "meaning": "おそい",
+      "skills": [
+        "l",
+        "a_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lane",
+      "ipa": "leɪn",
+      "meaning": "ほそい みち",
+      "skills": [
+        "l",
+        "a_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "name",
+      "ipa": "neɪm",
+      "meaning": "なまえ",
+      "skills": [
+        "n",
+        "a_e",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "game",
+      "ipa": "ɡeɪm",
+      "meaning": "ゲーム",
+      "skills": [
+        "g",
+        "a_e",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "same",
+      "ipa": "seɪm",
+      "meaning": "おなじ",
+      "skills": [
+        "s",
+        "a_e",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "safe",
+      "ipa": "seɪf",
+      "meaning": "あんぜん",
+      "skills": [
+        "s",
+        "a_e",
+        "f"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "make",
+      "ipa": "meɪk",
+      "meaning": "つくる",
+      "skills": [
+        "m",
+        "a_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "take",
+      "ipa": "teɪk",
+      "meaning": "もっていく",
+      "skills": [
+        "t",
+        "a_e",
+        "k"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "bake",
+      "ipa": "beɪk",
+      "meaning": "やく",
+      "skills": [
+        "b",
+        "a_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rake",
+      "ipa": "ɹeɪk",
+      "meaning": "くまで",
+      "skills": [
+        "r",
+        "a_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rate",
+      "ipa": "ɹeɪt",
+      "meaning": "わりあい",
+      "skills": [
+        "r",
+        "a_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "gate",
+      "ipa": "ɡeɪt",
+      "meaning": "もん",
+      "skills": [
+        "g",
+        "a_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hate",
+      "ipa": "heɪt",
+      "meaning": "きらう",
+      "skills": [
+        "h",
+        "a_e",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "made",
+      "ipa": "meɪd",
+      "meaning": "つくった",
+      "skills": [
+        "m",
+        "a_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "kite",
+      "ipa": "kaɪt",
+      "meaning": "たこ",
+      "skills": [
+        "k",
+        "i_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bike",
+      "ipa": "baɪk",
+      "meaning": "じてんしゃ",
+      "skills": [
+        "b",
+        "i_e",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bite",
+      "ipa": "baɪt",
+      "meaning": "かむ",
+      "skills": [
+        "b",
+        "i_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "time",
+      "ipa": "taɪm",
+      "meaning": "じかん",
+      "skills": [
+        "t",
+        "i_e",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "lime",
+      "ipa": "laɪm",
+      "meaning": "ライム",
+      "skills": [
+        "l",
+        "i_e",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "line",
+      "ipa": "laɪn",
+      "meaning": "せん",
+      "skills": [
+        "l",
+        "i_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fine",
+      "ipa": "faɪn",
+      "meaning": "げんき",
+      "skills": [
+        "f",
+        "i_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mine",
+      "ipa": "maɪn",
+      "meaning": "わたしのもの",
+      "skills": [
+        "m",
+        "i_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nine",
+      "ipa": "naɪn",
+      "meaning": "きゅう",
+      "skills": [
+        "n",
+        "i_e",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "pine",
+      "ipa": "paɪn",
+      "meaning": "まつ",
+      "skills": [
+        "p",
+        "i_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pipe",
+      "ipa": "paɪp",
+      "meaning": "パイプ",
+      "skills": [
+        "p",
+        "i_e",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ripe",
+      "ipa": "ɹaɪp",
+      "meaning": "じゅくした",
+      "skills": [
+        "r",
+        "i_e",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ride",
+      "ipa": "ɹaɪd",
+      "meaning": "のる",
+      "skills": [
+        "r",
+        "i_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "side",
+      "ipa": "saɪd",
+      "meaning": "よこ",
+      "skills": [
+        "s",
+        "i_e",
+        "d"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "wide",
+      "ipa": "waɪd",
+      "meaning": "ひろい",
+      "skills": [
+        "w",
+        "i_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hide",
+      "ipa": "haɪd",
+      "meaning": "かくれる",
+      "skills": [
+        "h",
+        "i_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tide",
+      "ipa": "taɪd",
+      "meaning": "しお",
+      "skills": [
+        "t",
+        "i_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hope",
+      "ipa": "hoʊp",
+      "meaning": "きぼう",
+      "skills": [
+        "h",
+        "o_e",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rope",
+      "ipa": "ɹoʊp",
+      "meaning": "ロープ",
+      "skills": [
+        "r",
+        "o_e",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "home",
+      "ipa": "hoʊm",
+      "meaning": "いえ",
+      "skills": [
+        "h",
+        "o_e",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bone",
+      "ipa": "boʊn",
+      "meaning": "ほね",
+      "skills": [
+        "b",
+        "o_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cone",
+      "ipa": "koʊn",
+      "meaning": "えんすい",
+      "skills": [
+        "c",
+        "o_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "note",
+      "ipa": "noʊt",
+      "meaning": "メモ",
+      "skills": [
+        "n",
+        "o_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "vote",
+      "ipa": "voʊt",
+      "meaning": "とうひょう",
+      "skills": [
+        "v",
+        "o_e",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "mole",
+      "ipa": "moʊl",
+      "meaning": "もぐら",
+      "skills": [
+        "m",
+        "o_e",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hole",
+      "ipa": "hoʊl",
+      "meaning": "あな",
+      "skills": [
+        "h",
+        "o_e",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pole",
+      "ipa": "poʊl",
+      "meaning": "ぼう",
+      "skills": [
+        "p",
+        "o_e",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sole",
+      "ipa": "soʊl",
+      "meaning": "あしの うら",
+      "skills": [
+        "s",
+        "o_e",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "cube",
+      "ipa": "kjub",
+      "meaning": "りっぽうたい",
+      "skills": [
+        "c",
+        "u_e",
+        "b"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "cute",
+      "ipa": "kjut",
+      "meaning": "かわいい",
+      "skills": [
+        "c",
+        "u_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mute",
+      "ipa": "mjut",
+      "meaning": "おとを けす",
+      "skills": [
+        "m",
+        "u_e",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tube",
+      "ipa": "tub",
+      "meaning": "くだ",
+      "skills": [
+        "t",
+        "u_e",
+        "b"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tune",
+      "ipa": "tun",
+      "meaning": "きょく",
+      "skills": [
+        "t",
+        "u_e",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "flute",
+      "ipa": "flut",
+      "meaning": "フルート",
+      "skills": [
+        "f",
+        "l",
+        "u_e",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "rude",
+      "ipa": "ɹud",
+      "meaning": "しつれいな",
+      "skills": [
+        "r",
+        "u_e",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rule",
+      "ipa": "ɹul",
+      "meaning": "ルール",
+      "skills": [
+        "r",
+        "u_e",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rain",
+      "ipa": "ɹeɪn",
+      "meaning": "あめ",
+      "skills": [
+        "r",
+        "ai",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mail",
+      "ipa": "meɪl",
+      "meaning": "てがみ",
+      "skills": [
+        "m",
+        "ai",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "main",
+      "ipa": "meɪn",
+      "meaning": "おもな",
+      "skills": [
+        "m",
+        "ai",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "pain",
+      "ipa": "peɪn",
+      "meaning": "いたみ",
+      "skills": [
+        "p",
+        "ai",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tail",
+      "ipa": "teɪl",
+      "meaning": "しっぽ",
+      "skills": [
+        "t",
+        "ai",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sail",
+      "ipa": "seɪl",
+      "meaning": "ほ",
+      "skills": [
+        "s",
+        "ai",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "nail",
+      "ipa": "neɪl",
+      "meaning": "くぎ",
+      "skills": [
+        "n",
+        "ai",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "rail",
+      "ipa": "ɹeɪl",
+      "meaning": "レール",
+      "skills": [
+        "r",
+        "ai",
+        "l"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "paid",
+      "ipa": "peɪd",
+      "meaning": "はらった",
+      "skills": [
+        "p",
+        "ai",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "wait",
+      "ipa": "weɪt",
+      "meaning": "まつ",
+      "skills": [
+        "w",
+        "ai",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bait",
+      "ipa": "beɪt",
+      "meaning": "えさ",
+      "skills": [
+        "b",
+        "ai",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "gain",
+      "ipa": "ɡeɪn",
+      "meaning": "える",
+      "skills": [
+        "g",
+        "ai",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "train",
+      "ipa": "tɹeɪn",
+      "meaning": "でんしゃ",
+      "skills": [
+        "t",
+        "r",
+        "ai",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "brain",
+      "ipa": "bɹeɪn",
+      "meaning": "のう",
+      "skills": [
+        "b",
+        "r",
+        "ai",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "plain",
+      "ipa": "pleɪn",
+      "meaning": "へいげん",
+      "skills": [
+        "p",
+        "l",
+        "ai",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "snail",
+      "ipa": "sneɪl",
+      "meaning": "かたつむり",
+      "skills": [
+        "s",
+        "n",
+        "ai",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "day",
+      "ipa": "deɪ",
+      "meaning": "ひ",
+      "skills": [
+        "d",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "hay",
+      "ipa": "heɪ",
+      "meaning": "ほしくさ",
+      "skills": [
+        "h",
+        "ay"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "bay",
+      "ipa": "beɪ",
+      "meaning": "いりえ",
+      "skills": [
+        "b",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "lay",
+      "ipa": "leɪ",
+      "meaning": "よこにする",
+      "skills": [
+        "l",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "may",
+      "ipa": "meɪ",
+      "meaning": "してもよい",
+      "skills": [
+        "m",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pay",
+      "ipa": "peɪ",
+      "meaning": "はらう",
+      "skills": [
+        "p",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "ray",
+      "ipa": "ɹeɪ",
+      "meaning": "ひかり",
+      "skills": [
+        "r",
+        "ay"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "say",
+      "ipa": "seɪ",
+      "meaning": "いう",
+      "skills": [
+        "s",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "way",
+      "ipa": "weɪ",
+      "meaning": "みち",
+      "skills": [
+        "w",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "jay",
+      "ipa": "dʒeɪ",
+      "meaning": "かけす",
+      "skills": [
+        "j",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "play",
+      "ipa": "pleɪ",
+      "meaning": "あそぶ",
+      "skills": [
+        "p",
+        "l",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "tray",
+      "ipa": "tɹeɪ",
+      "meaning": "おぼん",
+      "skills": [
+        "t",
+        "r",
+        "ay"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "stay",
+      "ipa": "steɪ",
+      "meaning": "とどまる",
+      "skills": [
+        "s",
+        "t",
+        "ay"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "see",
+      "ipa": "si",
+      "meaning": "みる",
+      "skills": [
+        "s",
+        "ee"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "bee",
+      "ipa": "bi",
+      "meaning": "はち",
+      "skills": [
+        "b",
+        "ee"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "fee",
+      "ipa": "fi",
+      "meaning": "りょうきん",
+      "skills": [
+        "f",
+        "ee"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "free",
+      "ipa": "fɹi",
+      "meaning": "じゆう",
+      "skills": [
+        "f",
+        "r",
+        "ee"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "tree",
+      "ipa": "tɹi",
+      "meaning": "き",
+      "skills": [
+        "t",
+        "r",
+        "ee"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "green",
+      "ipa": "ɡɹin",
+      "meaning": "みどり",
+      "skills": [
+        "g",
+        "r",
+        "ee",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "queen",
+      "ipa": "kwin",
+      "meaning": "じょおう",
+      "skills": [
+        "qu",
+        "ee",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "need",
+      "ipa": "nid",
+      "meaning": "ひつよう",
+      "skills": [
+        "n",
+        "ee",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "reef",
+      "ipa": "ɹif",
+      "meaning": "さんごしょう",
+      "skills": [
+        "r",
+        "ee",
+        "f"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "feed",
+      "ipa": "fid",
+      "meaning": "たべさせる",
+      "skills": [
+        "f",
+        "ee",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "seed",
+      "ipa": "sid",
+      "meaning": "たね",
+      "skills": [
+        "s",
+        "ee",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "weed",
+      "ipa": "wid",
+      "meaning": "ざっそう",
+      "skills": [
+        "w",
+        "ee",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "week",
+      "ipa": "wik",
+      "meaning": "しゅう",
+      "skills": [
+        "w",
+        "ee",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "deep",
+      "ipa": "dip",
+      "meaning": "ふかい",
+      "skills": [
+        "d",
+        "ee",
+        "p"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "keep",
+      "ipa": "kip",
+      "meaning": "もっておく",
+      "skills": [
+        "k",
+        "ee",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "peek",
+      "ipa": "pik",
+      "meaning": "のぞく",
+      "skills": [
+        "p",
+        "ee",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "meet",
+      "ipa": "mit",
+      "meaning": "あう",
+      "skills": [
+        "m",
+        "ee",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "feet",
+      "ipa": "fit",
+      "meaning": "りょうあし",
+      "skills": [
+        "f",
+        "ee",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "feel",
+      "ipa": "fil",
+      "meaning": "かんじる",
+      "skills": [
+        "f",
+        "ee",
+        "l"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "peel",
+      "ipa": "pil",
+      "meaning": "かわを むく",
+      "skills": [
+        "p",
+        "ee",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "heel",
+      "ipa": "hil",
+      "meaning": "かかと",
+      "skills": [
+        "h",
+        "ee",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "seem",
+      "ipa": "sim",
+      "meaning": "のように みえる",
+      "skills": [
+        "s",
+        "ee",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "seen",
+      "ipa": "sin",
+      "meaning": "みた",
+      "skills": [
+        "s",
+        "ee",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "keen",
+      "ipa": "kin",
+      "meaning": "ねっしんな",
+      "skills": [
+        "k",
+        "ee",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "teen",
+      "ipa": "tin",
+      "meaning": "じゅうだい",
+      "skills": [
+        "t",
+        "ee",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "sea",
+      "ipa": "si",
+      "meaning": "うみ",
+      "skills": [
+        "s",
+        "ea"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "tea",
+      "ipa": "ti",
+      "meaning": "おちゃ",
+      "skills": [
+        "t",
+        "ea"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "pea",
+      "ipa": "pi",
+      "meaning": "まめ",
+      "skills": [
+        "p",
+        "ea"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "leaf",
+      "ipa": "lif",
+      "meaning": "はっぱ",
+      "skills": [
+        "l",
+        "ea",
+        "f"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "seat",
+      "ipa": "sit",
+      "meaning": "せき",
+      "skills": [
+        "s",
+        "ea",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "meat",
+      "ipa": "mit",
+      "meaning": "にく",
+      "skills": [
+        "m",
+        "ea",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "heat",
+      "ipa": "hit",
+      "meaning": "ねつ",
+      "skills": [
+        "h",
+        "ea",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "beat",
+      "ipa": "bit",
+      "meaning": "リズム",
+      "skills": [
+        "b",
+        "ea",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "neat",
+      "ipa": "nit",
+      "meaning": "きちんとした",
+      "skills": [
+        "n",
+        "ea",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "team",
+      "ipa": "tim",
+      "meaning": "チーム",
+      "skills": [
+        "t",
+        "ea",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "beam",
+      "ipa": "bim",
+      "meaning": "ひかりの すじ",
+      "skills": [
+        "b",
+        "ea",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "seam",
+      "ipa": "sim",
+      "meaning": "ぬいめ",
+      "skills": [
+        "s",
+        "ea",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "dream",
+      "ipa": "dɹim",
+      "meaning": "ゆめ",
+      "skills": [
+        "d",
+        "r",
+        "ea",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": true
+    },
+    {
+      "text": "steam",
+      "ipa": "stim",
+      "meaning": "ゆげ",
+      "skills": [
+        "s",
+        "t",
+        "ea",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": true
+    },
+    {
+      "text": "eat",
+      "ipa": "it",
+      "meaning": "たべる",
+      "skills": [
+        "ea",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "boat",
+      "ipa": "boʊt",
+      "meaning": "ふね",
+      "skills": [
+        "b",
+        "oa",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "coat",
+      "ipa": "koʊt",
+      "meaning": "コート",
+      "skills": [
+        "c",
+        "oa",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "goat",
+      "ipa": "ɡoʊt",
+      "meaning": "やぎ",
+      "skills": [
+        "g",
+        "oa",
+        "t"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "moat",
+      "ipa": "moʊt",
+      "meaning": "ほり",
+      "skills": [
+        "m",
+        "oa",
+        "t"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "road",
+      "ipa": "ɹoʊd",
+      "meaning": "どうろ",
+      "skills": [
+        "r",
+        "oa",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "toad",
+      "ipa": "toʊd",
+      "meaning": "ひきがえる",
+      "skills": [
+        "t",
+        "oa",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "load",
+      "ipa": "loʊd",
+      "meaning": "にもつ",
+      "skills": [
+        "l",
+        "oa",
+        "d"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "soap",
+      "ipa": "soʊp",
+      "meaning": "せっけん",
+      "skills": [
+        "s",
+        "oa",
+        "p"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "foam",
+      "ipa": "foʊm",
+      "meaning": "あわ",
+      "skills": [
+        "f",
+        "oa",
+        "m"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "roam",
+      "ipa": "ɹoʊm",
+      "meaning": "あるきまわる",
+      "skills": [
+        "r",
+        "oa",
+        "m"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "goal",
+      "ipa": "ɡoʊl",
+      "meaning": "ゴール",
+      "skills": [
+        "g",
+        "oa",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "coal",
+      "ipa": "koʊl",
+      "meaning": "せきたん",
+      "skills": [
+        "c",
+        "oa",
+        "l"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "loan",
+      "ipa": "loʊn",
+      "meaning": "かすこと",
+      "skills": [
+        "l",
+        "oa",
+        "n"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "loaf",
+      "ipa": "loʊf",
+      "meaning": "かたまりの パン",
+      "skills": [
+        "l",
+        "oa",
+        "f"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "oak",
+      "ipa": "oʊk",
+      "meaning": "かしのき",
+      "skills": [
+        "oa",
+        "k"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "row",
+      "ipa": "ɹoʊ",
+      "meaning": "こぐ",
+      "skills": [
+        "r",
+        "ow"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "low",
+      "ipa": "loʊ",
+      "meaning": "ひくい",
+      "skills": [
+        "l",
+        "ow"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "mow",
+      "ipa": "moʊ",
+      "meaning": "くさを かる",
+      "skills": [
+        "m",
+        "ow"
+      ],
+      "heldOut": false,
+      "blend": false
+    },
+    {
+      "text": "own",
+      "ipa": "oʊn",
+      "meaning": "じぶんのもの",
+      "skills": [
+        "ow",
+        "n"
+      ],
+      "heldOut": true,
+      "blend": false
+    },
+    {
+      "text": "snow",
+      "ipa": "snoʊ",
+      "meaning": "ゆき",
+      "skills": [
+        "s",
+        "n",
+        "ow"
+      ],
+      "heldOut": false,
+      "blend": true
+    }
+  ],
+  "islands": [
+    {
+      "name": "はじまりの もり",
+      "subtitle": "はじめの おとを みつけよう",
+      "animal": "きつね",
+      "color": 4285175141,
+      "lessons": [
+        {
+          "skill": "s",
+          "title": "s の おと"
+        },
+        {
+          "skill": "a",
+          "title": "a の おと"
+        },
+        {
+          "skill": "t",
+          "title": "t の おと"
+        },
+        {
+          "skill": "p",
+          "title": "p の おと"
+        },
+        {
+          "skill": "i",
+          "title": "i の おと"
+        },
+        {
+          "skill": "n",
+          "title": "n の おと"
+        },
+        {
+          "skill": "s",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "まるたの かわ",
+      "subtitle": "おとを つないで ことばに",
+      "animal": "うさぎ",
+      "color": 4283672220,
+      "lessons": [
+        {
+          "skill": "m",
+          "title": "m の おと"
+        },
+        {
+          "skill": "d",
+          "title": "d の おと"
+        },
+        {
+          "skill": "g",
+          "title": "g の おと"
+        },
+        {
+          "skill": "o",
+          "title": "o の おと"
+        },
+        {
+          "skill": "c",
+          "title": "c の おと"
+        },
+        {
+          "skill": "k",
+          "title": "k の おと"
+        },
+        {
+          "skill": "m",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "はなさく おか",
+      "subtitle": "まんなかの おとを きこう",
+      "animal": "ねこ",
+      "color": 4291075159,
+      "lessons": [
+        {
+          "skill": "e",
+          "title": "e の おと"
+        },
+        {
+          "skill": "u",
+          "title": "u の おと"
+        },
+        {
+          "skill": "b",
+          "title": "b の おと"
+        },
+        {
+          "skill": "h",
+          "title": "h の おと"
+        },
+        {
+          "skill": "f",
+          "title": "f の おと"
+        },
+        {
+          "skill": "l",
+          "title": "l の おと"
+        },
+        {
+          "skill": "e",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "かぜの そうげん",
+      "subtitle": "いろいろな こえに であおう",
+      "animal": "いぬ",
+      "color": 4287339362,
+      "lessons": [
+        {
+          "skill": "r",
+          "title": "r の おと"
+        },
+        {
+          "skill": "j",
+          "title": "j の おと"
+        },
+        {
+          "skill": "v",
+          "title": "v の おと"
+        },
+        {
+          "skill": "w",
+          "title": "w の おと"
+        },
+        {
+          "skill": "y",
+          "title": "y の おと"
+        },
+        {
+          "skill": "z",
+          "title": "z の おと"
+        },
+        {
+          "skill": "r",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "ひかりの まち",
+      "subtitle": "もじと おとを たしかめよう",
+      "animal": "くま",
+      "color": 4291201131,
+      "lessons": [
+        {
+          "skill": "x",
+          "title": "x の おと"
+        },
+        {
+          "skill": "qu",
+          "title": "qu の おと"
+        },
+        {
+          "skill": "review",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix1",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix2",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix3",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "x",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "しずかな みずうみ",
+      "subtitle": "ふたつの もじで ひとつの おと",
+      "animal": "あひる",
+      "color": 4285308339,
+      "lessons": [
+        {
+          "skill": "sh",
+          "title": "sh の おと"
+        },
+        {
+          "skill": "ch",
+          "title": "ch の おと"
+        },
+        {
+          "skill": "th",
+          "title": "th の おと"
+        },
+        {
+          "skill": "thv",
+          "title": "th の おと"
+        },
+        {
+          "skill": "ng",
+          "title": "ng の おと"
+        },
+        {
+          "skill": "ck",
+          "title": "ck の おと"
+        },
+        {
+          "skill": "sh",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "つながる はし",
+      "subtitle": "おとを つづけて いってみよう",
+      "animal": "かえる",
+      "color": 4285573516,
+      "lessons": [
+        {
+          "skill": "st",
+          "title": "st の おと"
+        },
+        {
+          "skill": "sp",
+          "title": "sp の おと"
+        },
+        {
+          "skill": "bl",
+          "title": "bl の おと"
+        },
+        {
+          "skill": "pl",
+          "title": "pl の おと"
+        },
+        {
+          "skill": "nd",
+          "title": "nd の おと"
+        },
+        {
+          "skill": "nt",
+          "title": "nt の おと"
+        },
+        {
+          "skill": "st",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "まほうの やま",
+      "subtitle": "さいごの e の ひみつ",
+      "animal": "ふくろう",
+      "color": 4288384955,
+      "lessons": [
+        {
+          "skill": "a_e",
+          "title": "a_e の おと"
+        },
+        {
+          "skill": "i_e",
+          "title": "i_e の おと"
+        },
+        {
+          "skill": "o_e",
+          "title": "o_e の おと"
+        },
+        {
+          "skill": "u_e",
+          "title": "u_e の おと"
+        },
+        {
+          "skill": "mix4",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix5",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "a_e",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "にじの みなと",
+      "subtitle": "おなじ おと、ちがう もじ",
+      "animal": "ぺんぎん",
+      "color": 4292058468,
+      "lessons": [
+        {
+          "skill": "ai",
+          "title": "ai の おと"
+        },
+        {
+          "skill": "ay",
+          "title": "ay の おと"
+        },
+        {
+          "skill": "ee",
+          "title": "ee の おと"
+        },
+        {
+          "skill": "ea",
+          "title": "ea の おと"
+        },
+        {
+          "skill": "oa",
+          "title": "oa の おと"
+        },
+        {
+          "skill": "ow",
+          "title": "ow の おと"
+        },
+        {
+          "skill": "ai",
+          "title": "しまの たからさがし"
+        }
+      ]
+    },
+    {
+      "name": "ぼうけんの しま",
+      "subtitle": "はじめての ことばを よもう",
+      "animal": "らいおん",
+      "color": 4291663738,
+      "lessons": [
+        {
+          "skill": "mix6",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix7",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix8",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix9",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix10",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix11",
+          "title": "ことばの パズル"
+        },
+        {
+          "skill": "mix6",
+          "title": "しまの たからさがし"
+        }
+      ]
+    }
+  ]
+}

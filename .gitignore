@@ -1,0 +1,14 @@
+.dart_tool/
+.flutter-plugins*
+.idea/
+build/
+android/.gradle/
+android/local.properties
+*.iml
+*.jks
+*.keystore
+.env
+__pycache__/
+.pytest_cache/
+*.sqlite3
+*.sqlite3-*

@@ -1,0 +1,29 @@
+name: Validate application
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.47.9'
+          channel: stable
+          cache: true
+      - run: python -m unittest discover -s tests -v
+      - run: |
+          mkdir -p /tmp/fonix-native
+          javac -d /tmp/fonix-native android/app/src/main/java/jp/fonix/AudioData.java android/app/src/main/java/jp/fonix/PinHash.java tests/NativeTests.java
+          java -cp /tmp/fonix-native NativeTests
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test
+      - run: flutter build apk --debug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fonix-family-debug-apk
+          path: build/app/outputs/flutter-apk/app-debug.apk
