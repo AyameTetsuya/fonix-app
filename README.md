@@ -23,9 +23,20 @@ Fire HD 10で、動物と冒険しながら文字と音を学ぶFlutterアプリ
 オンライン評価はアプリに接続しておらず、製品用Androidマニフェストにネットワーク権限はありません。
 モデル・児童音声での評価・利用条件の確認が済むまでは、録音と聴き比べを利用する開発版です。
 
-Flutter SDKの公式配布先がクラウド環境の通信制限で遮断されているため、現時点でFlutterの解析・実行テスト・APKビルドは未実行です。
-そのため、起動確認済み・Fire実機動作確認済みの完成版とは扱っていません。
+クラウド作業環境ではFlutter SDKの公式配布先が通信制限で遮断されていますが、GitHub ActionsではFlutterの解析とアプリのテストが通過しました。
+APKの生成とArtifactsへの保存も成功しました。Fire実機での動作確認はこれからです。
 検証済み範囲と残作業は [実装状況](docs/implementation-status.md) を参照してください。
+
+## 作成済みAPKをFireに入れる
+
+1. GitHubにログインし、[成功したビルド #4](https://github.com/AyameTetsuya/fonix-app/actions/runs/41357246782) を開きます。
+2. ページ下部のArtifactsから `fonix-family-debug-apk` をダウンロードします。ZIPは約76MBです。
+3. WindowsでZIPを展開し、`app-debug.apk` をFireのDownloadフォルダにUSB転送します。
+4. FireのファイルアプリでAPKを開き、必要ならそのアプリからのインストールを許可してインストールします。
+5. 「わくわくフォニックス」を開き、保護者PINを設定して開始します。
+
+このAPKはコミット `204aad1` のソースから生成した家庭向けデバッグ版です。
+以後のアプリ更新時も、最新の成功した実行からAPKを取得してください。
 
 ## 開発環境
 
@@ -34,7 +45,7 @@ Flutter SDKの公式配布先がクラウド環境の通信制限で遮断され
 | Flutter | 3.47.9 stable（c197ca5199e9ee5661e865596c9c07294dfab51c） |
 | Java | JDK 21。Androidソースの言語レベルは17 |
 | Android SDK | API 36、Build Tools 36.0.0 |
-| Gradle / Android Gradle Plugin | 9.3.1 / 9.1.0 |
+| Gradle / Android Gradle Plugin / Kotlin | 9.3.1 / 9.1.0 / 2.4.0 |
 | アプリ対象 | Android互換API 28以上。Fire第11・13世代は実機検証対象 |
 
 Windowsでは公式のFlutter SDK、Android SDK、JDKを準備し、`flutter doctor -v`で確認してください。
@@ -102,7 +113,7 @@ java -cp /tmp/fonix-native NativeTests
 `javac`起動ファイルがなく、JDKのコンパイラモジュールが存在する環境では、代わりに
 `java -m jdk.compiler/com.sun.tools.javac.Main` を使えます。
 Pythonテストは標準ライブラリだけで動作し、ローカルHTTP試験以外の通信や有料APIへの接続をしません。
-CIも同じ検証とFlutter解析・テスト・APKビルドを行う設定です。CI自体はまだ実行していません。
+CIも同じ検証とFlutter解析・テスト・APKビルドを行います。失敗時は具体的な診断をActionsの注釈にも表示し、実際の終了コードを維持します。
 
 ## 教材と音源を変更する
 
