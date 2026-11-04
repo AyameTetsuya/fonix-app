@@ -32,23 +32,26 @@ class _FonixAppState extends State<FonixApp> {
   }
   @override Widget build(BuildContext context) => MaterialApp(
     title: 'わくわくフォニックス', debugShowCheckedModeBanner: false,
-    theme: ThemeData(useMaterial3: true, scaffoldBackgroundColor: const Color(0xFFFAF8F1),
+    theme: ThemeData(useMaterial3: true, fontFamily: 'MPlusRounded', scaffoldBackgroundColor: const Color(0xFFFAF8F1),
       colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF275D50),
         primary: const Color(0xFF275D50), secondary: const Color(0xFFEF9C57),
         surface: const Color(0xFFFFFEF8)),
       textTheme: const TextTheme(
-        headlineLarge: TextStyle(fontSize: 34, fontWeight: FontWeight.w800, height: 1.5),
-        headlineMedium: TextStyle(fontSize: 26, fontWeight: FontWeight.w800),
-        titleLarge: TextStyle(fontSize: 21, fontWeight: FontWeight.w700),
-        bodyLarge: TextStyle(fontSize: 17, height: 1.7),
-        bodyMedium: TextStyle(fontSize: 15, height: 1.6)),
+        headlineLarge: TextStyle(fontSize: 44, fontWeight: FontWeight.w800, height: 1.3),
+        headlineMedium: TextStyle(fontSize: 36, fontWeight: FontWeight.w800),
+        titleLarge: TextStyle(fontSize: 28, fontWeight: FontWeight.w800),
+        titleMedium: TextStyle(fontSize: 24, fontWeight: FontWeight.w800),
+        bodyLarge: TextStyle(fontSize: 24, height: 1.5),
+        bodyMedium: TextStyle(fontSize: 22, height: 1.45),
+        labelLarge: TextStyle(fontSize: 24, fontWeight: FontWeight.w800)),
       filledButtonTheme: FilledButtonThemeData(style: FilledButton.styleFrom(
-        minimumSize: const Size(48, 52), padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
-        textStyle: const TextStyle(fontSize: 17, fontWeight: FontWeight.w700),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)))),
+        minimumSize: const Size(80, 80), padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 18),
+        textStyle: const TextStyle(fontSize: 26, fontWeight: FontWeight.w800),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)))),
       outlinedButtonTheme: OutlinedButtonThemeData(style: OutlinedButton.styleFrom(
-        minimumSize: const Size(48, 52), textStyle: const TextStyle(fontSize: 16),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)))),
+        minimumSize: const Size(80, 80), textStyle: const TextStyle(fontSize: 26, fontWeight: FontWeight.w800),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)))),
+      iconButtonTheme: IconButtonThemeData(style: IconButton.styleFrom(minimumSize: const Size(64, 64))),
       inputDecorationTheme: InputDecorationTheme(border: OutlineInputBorder(
         borderRadius: BorderRadius.circular(16))),
     ),

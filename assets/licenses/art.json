@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "generated_date": "2026-11-04",
+  "origin": "Created specifically for this project using OpenAI image_gen. No external stock image or existing character reference was supplied.",
+  "creative_direction": "Original premium anime fantasy adventure companions and environment, with dimensional materials, expressive eyes, warm light and a forest / teal / gold palette.",
+  "runtime": "Bundled PNG files. Display and atlas cell selection work offline; the app does not call an image generation service.",
+  "atlas": {
+    "path": "assets/art/companions.png",
+    "columns": 4,
+    "rows": 3,
+    "cell_width": 362,
+    "cell_height": 362,
+    "species_cells": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "extra_cell": {
+      "index": 11,
+      "description": "Fox in a jumping pose"
+    }
+  },
+  "assets": [
+    {
+      "path": "assets/art/companions.png",
+      "width": 1448,
+      "height": 1086,
+      "pixel_mode": "RGBA",
+      "sha256": "e8c8cf282b0019c1b5c308d5fcd7670e7f88935e787078a6e7df1f407a46ed50",
+      "description": "Original 4 x 3 transparent companion atlas: fox, rabbit, cat, dog, bear, duck, frog, owl, penguin, lion, squirrel, jumping fox."
+    },
+    {
+      "path": "assets/art/adventure-island.png",
+      "width": 1672,
+      "height": 941,
+      "pixel_mode": "RGB",
+      "sha256": "54578bf170bbd0ff9e538344378241a8e9d049c850ff77d357dd2d303d25e401",
+      "description": "Original sunlit forest island, river, bridge, treehouse village and floating islands; no characters."
+    }
+  ]
+}

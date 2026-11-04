@@ -10,7 +10,7 @@ Future<String?> askPin(BuildContext context,{bool create=false}) async {
   final form=GlobalKey<FormState>();
   final result=await showDialog<String>(context:context,builder:(context)=>AlertDialog(
     title:Text(create?'保護者用PINを決める':'おうちのひとの PIN'),
-    content:SizedBox(width:360,child:Form(key:form,child:Column(mainAxisSize:MainAxisSize.min,children:[
+    content:SizedBox(width:420,child:SingleChildScrollView(child:Form(key:form,child:Column(mainAxisSize:MainAxisSize.min,children:[
       Text(create?'数字4〜8桁を設定してください。忘れた場合は、端末のアプリ設定からデータを消去して再設定します。学習記録も消去されます。':'保護者用の設定を開きます。'),const SizedBox(height:16),
       TextFormField(controller:input,obscureText:true,keyboardType:TextInputType.number,maxLength:8,
         inputFormatters:[FilteringTextInputFormatter.digitsOnly],decoration:const InputDecoration(labelText:'PIN'),
@@ -18,7 +18,7 @@ Future<String?> askPin(BuildContext context,{bool create=false}) async {
       if(create)TextFormField(controller:confirmation,obscureText:true,keyboardType:TextInputType.number,maxLength:8,
         inputFormatters:[FilteringTextInputFormatter.digitsOnly],decoration:const InputDecoration(labelText:'もう一度入力'),
         validator:(v)=>v!=input.text?'同じPINを入力してください':null),
-    ]))),
+    ])))),
     actions:[TextButton(onPressed:()=>Navigator.pop(context),child:const Text('もどる')),
       FilledButton(onPressed:(){if(form.currentState!.validate())Navigator.pop(context,input.text);},child:const Text('すすむ'))],
   ));
@@ -64,13 +64,14 @@ class _SetupScreenState extends State<SetupScreen> {
   }
   @override Widget build(BuildContext context)=>Scaffold(body:SafeArea(child:Center(child:SingleChildScrollView(padding:const EdgeInsets.all(32),
     child:ConstrainedBox(constraints:const BoxConstraints(maxWidth:650),child:Column(children:[
-      const Animal(size:130),const Text('おとの ぼうけんへ、ようこそ。',textAlign:TextAlign.center,style:TextStyle(fontSize:30,fontWeight:FontWeight.w800,color:ink)),
-      const SizedBox(height:16),const Text('はじめに、おうちのひとと じゅんびしよう。',style:TextStyle(color:muted)),const SizedBox(height:20),
-      Container(padding:const EdgeInsets.all(22),decoration:BoxDecoration(color:paper,borderRadius:BorderRadius.circular(22)),child:const Text(
-        '保護者の方へ\n\n1回3〜5分、文字と音を楽しく学ぶアプリです。録音は端末内で扱い、外部には送信しません。マイクを使わなくても学習できます。\n\n現在は家庭向けの開発版です。音声・口の図は監修前の教材です。発音の正誤を自動判定する機能はまだ有効になっていません。')),
-      const SizedBox(height:22),Wrap(spacing:12,runSpacing:12,alignment:WrapAlignment.center,children:[
-        FilledButton(onPressed:busy?null:()=>begin(true),child:Text(busy?'じゅんびちゅう…':'おためしクイズから はじめる')),
-        OutlinedButton(onPressed:busy?null:()=>begin(false),child:const Text('はじめの しまから あそぶ')),
+      const Animal(size:210),const Text('はじめよう！',textAlign:TextAlign.center,style:TextStyle(fontSize:42,fontWeight:FontWeight.w800,color:ink)),
+      const SizedBox(height:22),Wrap(spacing:18,runSpacing:18,alignment:WrapAlignment.center,children:[
+        FilledButton.icon(key:const Key('setup-placement'),onPressed:busy?null:()=>begin(true),icon:const Icon(Icons.explore_rounded,size:34),label:Text(busy?'まってね':'おためし')),
+        OutlinedButton.icon(key:const Key('setup-from-start'),onPressed:busy?null:()=>begin(false),icon:const Icon(Icons.play_arrow_rounded,size:34),label:const Text('はじめから')),
+      ]),
+      const SizedBox(height:20),
+      const ExpansionTile(title:Text('おうちのひとへ',style:TextStyle(fontSize:20)),leading:Icon(Icons.lock_outline_rounded),children:[
+        Padding(padding:EdgeInsets.all(18),child:Text('1回3〜5分、文字と音を学ぶ家庭向け開発版です。録音は端末内だけで扱い、外部へ送信しません。マイクを使わずに学習することもできます。\n\n音声・口の図は監修前の教材です。発音の正誤を自動判定する機能は無効です。',style:TextStyle(fontSize:18,height:1.6))),
       ]),
     ]))))));
 }
@@ -140,7 +141,7 @@ class _ParentScreenState extends State<ParentScreen> with WidgetsBindingObserver
         if(await confirm('保存した録音をすべて削除しますか？ 学習進行は残ります。'))await action(()async{for(final id in await app.device.recordings()){await app.device.deleteRecording(id);}});
       },child:const Text('録音をすべて削除')),
       const Divider(height:32),_heading('教材・アプリについて'),
-      const Text('家庭向け開発版 0.1.0\n音声：eSpeak NGによる米語の仮音声（監修前）。口の図・説明・問題は教材レビュー前です。\n広告・購入・外部リンクはありません。アプリの更新は保護者が行います。'),
+      const Text('家庭向け開発版 0.2.0\n音声：eSpeak NGによる米語の仮音声（監修前）。口の図・説明・問題は教材レビュー前です。\n広告・購入・外部リンクはありません。アプリの更新は保護者が行います。'),
       const Divider(height:32),_heading('データ管理'),
       OutlinedButton(onPressed:busy?null:()async{
         final pin=await askPin(context,create:true);if(pin!=null)await action(()=>app.device.setPin(pin));

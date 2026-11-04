@@ -1,0 +1,20 @@
+[
+  {
+    "path": "assets/fonts/MPLUSRounded1c-ExtraBold.ttf",
+    "sha256": "8e7c15901dca87f1451b356dda594f7d092ba252a5dcc47da74523a242493c36",
+    "source": "https://github.com/google/fonts/tree/main/ofl/mplusrounded1c",
+    "copyright": "Copyright 2016 The Rounded M+ Project Authors.",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "assets/licenses/MPLUSRounded1c-OFL.txt",
+    "modified": false
+  },
+  {
+    "path": "assets/fonts/MPLUSRounded1c-Regular.ttf",
+    "sha256": "b75708b53e45b06d17d470aeeca5b766e3d1b3999f03f13ec4eb863ca846c14c",
+    "source": "https://github.com/google/fonts/tree/main/ofl/mplusrounded1c",
+    "copyright": "Copyright 2016 The Rounded M+ Project Authors.",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "assets/licenses/MPLUSRounded1c-OFL.txt",
+    "modified": false
+  }
+]

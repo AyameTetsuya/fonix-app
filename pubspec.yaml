@@ -1,7 +1,7 @@
 name: fonix_app
 description: Offline-first phonics adventures for children on Fire tablets.
 publish_to: none
-version: 0.1.0+1
+version: 0.2.0+2
 environment:
   sdk: '>=3.8.0 <4.0.0'
 dependencies:
@@ -18,3 +18,11 @@ flutter:
     - assets/data/curriculum.json
     - assets/audio/
     - assets/licenses/
+    - assets/art/
+  fonts:
+    - family: MPlusRounded
+      fonts:
+        - asset: assets/fonts/MPLUSRounded1c-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/MPLUSRounded1c-ExtraBold.ttf
+          weight: 800
