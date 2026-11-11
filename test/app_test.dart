@@ -67,7 +67,11 @@ Future<void> _openSh(WidgetTester tester) async {
 void main() {
   for (final text in ['tube', 'tune', 'flute', 'rude', 'rule', 'cute']) {
     testWidgets('word help uses a valid sound sequence for $text', (tester) async {
-      final word = _curriculum.words.firstWhere((word) => word.text == text);
+      final source = _curriculum.words.firstWhere((word) => word.text == text);
+      // Expose each word as this fixture's intro example, including held-out
+      // flute. Production held-out flags and content remain unchanged.
+      final word = Word(text: source.text, ipa: source.ipa, meaning: source.meaning,
+        skills: source.skills, blend: source.blend);
       final curriculum = Curriculum(_curriculum.sounds, [word],
         _curriculum.lessons, _curriculum.islands);
       final lesson = curriculum.lessons.firstWhere((lesson) => lesson.skill == 'u_e');
