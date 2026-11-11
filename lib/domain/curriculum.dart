@@ -59,7 +59,7 @@ class Curriculum {
       (j['words'] as List).map((w) => Word.fromJson(w)).toList(), lessons, islands);
   }
   Sound sound(String id) => sounds.firstWhere((s) => s.id == id,
-    orElse: () => sounds.first);
+    orElse: () => throw StateError('Unknown curriculum sound: $id'));
   bool isDecodable(Word word, int index) =>
     word.skills.every((s) => introduced.containsKey(s) && introduced[s]! <= index) &&
     (!word.blend || index >= 42);
@@ -67,8 +67,27 @@ class Curriculum {
     words.where((w) => w.heldOut == heldOut && isDecodable(w, index)).toList();
   List<Word> examples(Lesson lesson) {
     final eligible = available(lesson.index);
-    final focused = eligible.where((w) => w.skills.contains(lesson.skill)).toList();
+    bool focusedOn(Word word) {
+      if (word.skills.contains(lesson.skill)) return true;
+      // Clusters are stored as their component sounds, not as digraph tokens.
+      if (word.skills.length < 2) return false;
+      if (const {'st', 'sp', 'bl', 'pl'}.contains(lesson.skill)) {
+        return word.skills.take(2).join() == lesson.skill;
+      }
+      if (const {'nd', 'nt'}.contains(lesson.skill)) {
+        return word.skills.skip(word.skills.length - 2).join() == lesson.skill;
+      }
+      return false;
+    }
+    final focused = eligible.where(focusedOn).toList();
     return focused.isNotEmpty ? focused : eligible;
+  }
+  // Conservatively expose component playback only when its declared sounds
+  // actually reconstruct the word's IPA. Do not guess contextual variants.
+  bool canBlend(Word word) {
+    String normalized(String ipa) => ipa.replaceAll('g', 'ɡ');
+    final components = word.skills.map((id) => sound(id).ipa).join();
+    return normalized(components) == normalized(word.ipa);
   }
   List<Word> distractors(Word word,int index){
     final result=available(index).where((w)=>w.text!=word.text&&w.ipa!=word.ipa).toList();

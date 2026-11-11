@@ -24,6 +24,7 @@ final _curriculum = Curriculum.decode(
 
 Future<void> _boot(WidgetTester tester, FakeDevice device, {
   Size size = const Size(1280, 800), double textScale = 1,
+  Curriculum? curriculum,
 }) async {
   tester.view.physicalSize = size;
   tester.view.devicePixelRatio = 1;
@@ -31,7 +32,7 @@ Future<void> _boot(WidgetTester tester, FakeDevice device, {
   addTearDown(tester.view.resetPhysicalSize);
   addTearDown(tester.view.resetDevicePixelRatio);
   addTearDown(tester.platformDispatcher.clearTextScaleFactorTestValue);
-  await tester.pumpWidget(FonixApp(device: device, curriculum: _curriculum));
+  await tester.pumpWidget(FonixApp(device: device, curriculum: curriculum ?? _curriculum));
   await tester.pumpAndSettle();
   expect(tester.takeException(), isNull);
 }
@@ -64,6 +65,39 @@ Future<void> _openSh(WidgetTester tester) async {
 }
 
 void main() {
+  for (final text in ['tube', 'tune', 'flute', 'rude', 'rule', 'cute']) {
+    testWidgets('word help uses a valid sound sequence for $text', (tester) async {
+      final word = _curriculum.words.firstWhere((word) => word.text == text);
+      final curriculum = Curriculum(_curriculum.sounds, [word],
+        _curriculum.lessons, _curriculum.islands);
+      final lesson = curriculum.lessons.firstWhere((lesson) => lesson.skill == 'u_e');
+      final state = LearningState(setup: true,
+        completed: Set<int>.from(List.generate(lesson.index, (index) => index)));
+      final device = _AudioDevice()..data = state.encode();
+      await _boot(tester, device, curriculum: curriculum);
+      await _tap(tester, 'adventure-start');
+      await tester.tap(find.byTooltip('ヒント'));
+      await tester.pumpAndSettle();
+
+      final parts = find.byWidgetPredicate((widget) {
+        final key = widget.key;
+        return key is ValueKey<String> && key.value.startsWith('blend-part-');
+      });
+      if (text == 'cute') {
+        expect(parts, findsNWidgets(word.skills.length));
+        await _tap(tester, 'blend-part-u_e');
+        expect(device.played.last, 'assets/audio/sound_u_e.wav');
+      } else {
+        expect(parts, findsNothing,
+          reason: 'Do not present /ju/ as the component of a word using /u/');
+      }
+      await _tap(tester, 'help-word-play');
+      expect(device.played.last, word.audio);
+      expect(device.playback.last.volume, state.volume);
+      expect(device.data, state.encode(), reason: 'Opening help preserves saved progress and settings');
+    });
+  }
+
   testWidgets('a child can learn, record, feed a friend and compare sound audio',
     (tester) async {
       final device = _AudioDevice()
