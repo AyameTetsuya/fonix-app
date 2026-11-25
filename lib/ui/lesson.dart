@@ -737,12 +737,16 @@ Future<void> _soundHelp(BuildContext context, AppController app, Sound sound, Wo
         const SizedBox(height: 20),
         if (word != null) ...[
           Wrap(spacing: 10, runSpacing: 10, alignment: WrapAlignment.center, children: [
-            ...word.skills.map((id) => OutlinedButton(
+            // Contextual spellings such as u_e may represent a different sound
+            // in this word. Keep its model available without teaching a false
+            // sequence of isolated sounds.
+            if (app.curriculum.canBlend(word)) ...word.skills.map((id) => OutlinedButton(
+              key: ValueKey('blend-part-$id'),
               onPressed: () async {
                 try { await app.play(app.curriculum.sound(id).audio); }
                 catch (_) { if (sheetContext.mounted) message(sheetContext, 'さいせいできなかったよ。'); }
               }, child: Text(app.curriculum.sound(id).label, style: const TextStyle(fontSize: 32)))),
-            _ListenButton(label: word.text, onPressed: () async {
+            _ListenButton(key: const Key('help-word-play'), label: word.text, onPressed: () async {
               try { await app.play(word.audio); }
               catch (_) { if (sheetContext.mounted) message(sheetContext, 'さいせいできなかったよ。'); }
             }),

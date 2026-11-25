@@ -38,12 +38,23 @@ class QuestionFactory {
     }
     final sound = curriculum.sound(lesson.skill);
     if (!lesson.checkpoint) out.add(_soundQuestion(sound, '${lesson.id}_sound'));
-    final pool = lesson.checkpoint
-      ? [...curriculum.available(lesson.index, heldOut: true), ...curriculum.available(lesson.index)]
-      : curriculum.examples(lesson);
     final rng = Random(lesson.index + 41);
-    final practice = pool.toList();
-    if (!lesson.checkpoint) practice.shuffle(rng);
+    final List<Word> practice;
+    if (lesson.checkpoint) {
+      final heldOut = curriculum.available(lesson.index, heldOut: true)..shuffle(rng);
+      final regular = curriculum.available(lesson.index)..shuffle(rng);
+      // Check the island just learned instead of reusing the first five CVC
+      // words forever. Prefer reserved words, then fill with eligible practice.
+      bool newlyDecodable(Word word) => !curriculum.isDecodable(word, lesson.index - 7);
+      practice = [
+        ...heldOut.where(newlyDecodable),
+        ...regular.where(newlyDecodable),
+        ...heldOut.where((word) => !newlyDecodable(word)),
+        ...regular.where((word) => !newlyDecodable(word)),
+      ];
+    } else {
+      practice = curriculum.examples(lesson)..shuffle(rng);
+    }
     for (final word in practice.take(lesson.checkpoint ? 5 : 3)) {
       final alternatives = curriculum.distractors(word,lesson.index);
       final choices = <String>[word.text, ...alternatives.take(2).map((w) => w.text)]..shuffle(rng);
@@ -64,7 +75,16 @@ class QuestionFactory {
     // are never presented as competing answers to a sound-only question.
     final others = curriculum.sounds.where((s) => s.ipa != sound.ipa && s.label != sound.label &&
       !s.id.startsWith('mix') && s.id != 'review').toList()..shuffle(Random(id.length));
-    final choices = [sound.label, ...others.take(2).map((s) => s.label)]..shuffle(Random(id.hashCode));
+    final labels = {sound.label}, phonemes = {sound.ipa};
+    final choices = <String>[sound.label];
+    for (final other in others) {
+      if (labels.contains(other.label) || phonemes.contains(other.ipa)) continue;
+      labels.add(other.label);
+      phonemes.add(other.ipa);
+      choices.add(other.label);
+      if (choices.length == 3) break;
+    }
+    choices.shuffle(Random(id.hashCode));
     return Question(id: id, skill: sound.id, answer: sound.label,
       kind: QuestionKind.listen, choices: choices, audio: sound.audio);
   }
